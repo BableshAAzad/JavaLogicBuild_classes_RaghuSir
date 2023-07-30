@@ -1,10 +1,11 @@
 import java.util.Scanner;
 
-class IntInMonthName {
+class IntInMonthNameIfSwt {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter month number : ");
         int a = sc.nextInt();
+        if(a>0 && a<13)
         switch(a){
              case 1:
              System.out.println("January");
@@ -41,9 +42,9 @@ class IntInMonthName {
              return;
              case 12:
              System.out.println("December");
-             return;
-             default:    
-             System.out.println("Please enter only 1 to 12 month numbers");
+             return;    
         }
+        else
+           System.out.println("Please enter only 1 to 12 month numbers");
     }
 }
