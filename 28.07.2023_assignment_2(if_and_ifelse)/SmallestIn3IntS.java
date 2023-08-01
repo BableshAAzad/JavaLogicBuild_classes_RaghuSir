@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class SmallestIn3Int {
+class SmallestIn3IntS {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter three integer values : ");

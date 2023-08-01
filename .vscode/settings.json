@@ -1,3 +1,13 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "31.07.2023_assignment_4(ternary_operator)",
+        "29.07.2023_class",
+        "29.07.2023_assignment_3(efelse_switch)",
+        "28.07.2023_class",
+        "28.07.2023_assignment_2(if_and_ifelse)",
+        "26.07.2023_class",
+        "26.07.2023_assignment_1",
+        "01.08.2027_assignment_5(for_do_while_loops)"
+    ]
 }

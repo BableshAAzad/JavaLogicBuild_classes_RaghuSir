@@ -1,0 +1,315 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SumAllDivisibleByN",
+            "request": "launch",
+            "mainClass": "SumAllDivisibleByN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "AllDivisibleByN",
+            "request": "launch",
+            "mainClass": "AllDivisibleByN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "CalculateSumOfOddNEven",
+            "request": "launch",
+            "mainClass": "CalculateSumOfOddNEven",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "MultipleOf3Numbers",
+            "request": "launch",
+            "mainClass": "MultipleOf3Numbers",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "OddNthNumbersIF",
+            "request": "launch",
+            "mainClass": "OddNthNumbersIF",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BigIn2Int1If",
+            "request": "launch",
+            "mainClass": "BigIn2Int1If",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "Biggest3IntIf",
+            "request": "launch",
+            "mainClass": "Biggest3IntIf",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "BiggestIn2Int2If",
+            "request": "launch",
+            "mainClass": "BiggestIn2Int2If",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "BiggestIn3Double",
+            "request": "launch",
+            "mainClass": "BiggestIn3Double",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "BiggestIn3DoubleNo",
+            "request": "launch",
+            "mainClass": "BiggestIn3DoubleNo",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "BiggestIn3Int",
+            "request": "launch",
+            "mainClass": "BiggestIn3Int",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "Breakup",
+            "request": "launch",
+            "mainClass": "Breakup",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "DigitOrNumber",
+            "request": "launch",
+            "mainClass": "DigitOrNumber",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "EvenOrOdd",
+            "request": "launch",
+            "mainClass": "EvenOrOdd",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "IntInMonthName",
+            "request": "launch",
+            "mainClass": "IntInMonthName",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "IntInMonthNameIfSwt",
+            "request": "launch",
+            "mainClass": "IntInMonthNameIfSwt",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "LeapYearOrNot",
+            "request": "launch",
+            "mainClass": "LeapYearOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "MonthDaysShows",
+            "request": "launch",
+            "mainClass": "MonthDaysShows",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "MonthNoValidOrNot",
+            "request": "launch",
+            "mainClass": "MonthNoValidOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "NegvOrPosvInt",
+            "request": "launch",
+            "mainClass": "NegvOrPosvInt",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "OddEvenWCS",
+            "request": "launch",
+            "mainClass": "OddEvenWCS",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "OddEvenWIfElse",
+            "request": "launch",
+            "mainClass": "OddEvenWIfElse",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "OddEventWUMO",
+            "request": "launch",
+            "mainClass": "OddEventWUMO",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "OddNthNumbers",
+            "request": "launch",
+            "mainClass": "OddNthNumbers",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "OneIntPrintPositive",
+            "request": "launch",
+            "mainClass": "OneIntPrintPositive",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PassFailUsingAnd",
+            "request": "launch",
+            "mainClass": "PassFailUsingAnd",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PassFailUsingOr",
+            "request": "launch",
+            "mainClass": "PassFailUsingOr",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "SimpleInterest",
+            "request": "launch",
+            "mainClass": "SimpleInterest",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "SmallestIn3Int",
+            "request": "launch",
+            "mainClass": "SmallestIn3Int",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "SmallestIn3IntIfElse",
+            "request": "launch",
+            "mainClass": "SmallestIn3IntIfElse",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "SmallestIn3IntS",
+            "request": "launch",
+            "mainClass": "SmallestIn3IntS",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "Special2DigitOrNot",
+            "request": "launch",
+            "mainClass": "Special2DigitOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "Square",
+            "request": "launch",
+            "mainClass": "Square",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "Temparature",
+            "request": "launch",
+            "mainClass": "Temparature",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "ThreeDigitIntOrNot",
+            "request": "launch",
+            "mainClass": "ThreeDigitIntOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "TwoDigitOrNot",
+            "request": "launch",
+            "mainClass": "TwoDigitOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "TwoDoubleValues",
+            "request": "launch",
+            "mainClass": "TwoDoubleValues",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "TwoIntIsEqualOrNot",
+            "request": "launch",
+            "mainClass": "TwoIntIsEqualOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "TwoIntValues",
+            "request": "launch",
+            "mainClass": "TwoIntValues",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "VoteElegibleOrNot",
+            "request": "launch",
+            "mainClass": "VoteElegibleOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "ZeroOrNonZero",
+            "request": "launch",
+            "mainClass": "ZeroOrNonZero",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        }
+    ]
+}
