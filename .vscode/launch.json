@@ -6,6 +6,167 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FirstNthPrimeNosMehtod",
+            "request": "launch",
+            "mainClass": "FirstNthPrimeNosMehtod",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNOWithinMandN",
+            "request": "launch",
+            "mainClass": "PrimeNOWithinMandN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNosWithinNMethod",
+            "request": "launch",
+            "mainClass": "PrimeNosWithinNMethod",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNosWithin100",
+            "request": "launch",
+            "mainClass": "PrimeNosWithin100",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNoOrNorUsingMethod",
+            "request": "launch",
+            "mainClass": "PrimeNoOrNorUsingMethod",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNosPresentInTheNo",
+            "request": "launch",
+            "mainClass": "PrimeNosPresentInTheNo",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "SmallestDigitWithinNi",
+            "request": "launch",
+            "mainClass": "SmallestDigitWithinNi",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "BiggestDigitWithinNo",
+            "request": "launch",
+            "mainClass": "BiggestDigitWithinNo",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "AverageOfDigitsInTheNth",
+            "request": "launch",
+            "mainClass": "AverageOfDigitsInTheNth",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "SumOfEvenDigitsInTheNo",
+            "request": "launch",
+            "mainClass": "SumOfEvenDigitsInTheNo",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberOrNotFor",
+            "request": "launch",
+            "mainClass": "PrimeNumberOrNotFor",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "NumberIsPerfectOrNot",
+            "request": "launch",
+            "mainClass": "NumberIsPerfectOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDivisibleWithinN",
+            "request": "launch",
+            "mainClass": "SumOfDivisibleWithinN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitsInNthNo",
+            "request": "launch",
+            "mainClass": "SumOfDigitsInNthNo",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "DigitsPresentInNthNos",
+            "request": "launch",
+            "mainClass": "DigitsPresentInNthNos",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "FactorialOfNthNo",
+            "request": "launch",
+            "mainClass": "FactorialOfNthNo",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNaturalNos",
+            "request": "launch",
+            "mainClass": "SumOfNaturalNos",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "SumOf1st10NaturalNo",
+            "request": "launch",
+            "mainClass": "SumOf1st10NaturalNo",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "EvenNumberWithinNth",
+            "request": "launch",
+            "mainClass": "EvenNumberWithinNth",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "TablePrintInt",
+            "request": "launch",
+            "mainClass": "TablePrintInt",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "NthToFirstNumber",
+            "request": "launch",
+            "mainClass": "NthToFirstNumber",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "OnttoNthNumber1",
+            "request": "launch",
+            "mainClass": "OnttoNthNumber1",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "OnttoNthNumber",
+            "request": "launch",
+            "mainClass": "OnttoNthNumber",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
             "name": "SumAllDivisibleByN",
             "request": "launch",
             "mainClass": "SumAllDivisibleByN",
