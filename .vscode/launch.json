@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PerfectNosWithinN",
+            "request": "launch",
+            "mainClass": "PerfectNosWithinN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNosCountWithinN",
+            "request": "launch",
+            "mainClass": "PerfectNosCountWithinN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PerfectOrNot",
+            "request": "launch",
+            "mainClass": "PerfectOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrongNosWithin100",
+            "request": "launch",
+            "mainClass": "ArmStrongNosWithin100",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "DeseriumNumber",
+            "request": "launch",
+            "mainClass": "DeseriumNumber",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrongWithin3No",
+            "request": "launch",
+            "mainClass": "ArmStrongWithin3No",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrongNumber",
+            "request": "launch",
+            "mainClass": "ArmStrongNumber",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "StrongNumber",
+            "request": "launch",
+            "mainClass": "StrongNumber",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "Demox",
+            "request": "launch",
+            "mainClass": "Demox",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PefectNoWithin100M",
+            "request": "launch",
+            "mainClass": "PefectNoWithin100M",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNoOrNotM",
+            "request": "launch",
+            "mainClass": "PerfectNoOrNotM",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
             "name": "FirstNthPrimeNosMehtod",
             "request": "launch",
             "mainClass": "FirstNthPrimeNosMehtod",
