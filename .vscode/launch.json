@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StrongNosCountWithinN",
+            "request": "launch",
+            "mainClass": "StrongNosCountWithinN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "StrongNosCountWithinMandN",
+            "request": "launch",
+            "mainClass": "StrongNosCountWithinMandN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "StrongNosWithinMandN",
+            "request": "launch",
+            "mainClass": "StrongNosWithinMandN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "StrongNosWithin100",
+            "request": "launch",
+            "mainClass": "StrongNosWithin100",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "StrongNosWithinN",
+            "request": "launch",
+            "mainClass": "StrongNosWithinN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "DeseriumNosCountWithinMandN",
+            "request": "launch",
+            "mainClass": "DeseriumNosCountWithinMandN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "DeseriumNosCountWithinN",
+            "request": "launch",
+            "mainClass": "DeseriumNosCountWithinN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "DeseriumNosWithinMandN",
+            "request": "launch",
+            "mainClass": "DeseriumNosWithinMandN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "DeseriumNosWithin100",
+            "request": "launch",
+            "mainClass": "DeseriumNosWithin100",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "DiseriumNosWithinN",
+            "request": "launch",
+            "mainClass": "DiseriumNosWithinN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrongNosCountWithinMandN",
+            "request": "launch",
+            "mainClass": "ArmStrongNosCountWithinMandN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrongNosWithinMandN",
+            "request": "launch",
+            "mainClass": "ArmStrongNosWithinMandN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNosPresentWithinNandM",
+            "request": "launch",
+            "mainClass": "PerfectNosPresentWithinNandM",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNoWithinMandN",
+            "request": "launch",
+            "mainClass": "PerfectNoWithinMandN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrongNosWithinN",
+            "request": "launch",
+            "mainClass": "ArmStrongNosWithinN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrongNosCountWithinN",
+            "request": "launch",
+            "mainClass": "ArmStrongNosCountWithinN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
             "name": "PerfectNosWithinN",
             "request": "launch",
             "mainClass": "PerfectNosWithinN",

@@ -11,7 +11,7 @@ class PerfectNosCountWithinN {
             if (rf)
                 count++;
         }
-        System.out.println(count + " pefects number present in the " + base);
+        System.out.println(count + " pefects number present within " + base);
     }
 
     static boolean isPerfect(int n) {

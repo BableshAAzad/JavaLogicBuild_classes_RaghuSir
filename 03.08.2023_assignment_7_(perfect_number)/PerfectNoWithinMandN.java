@@ -1,18 +1,16 @@
 import java.util.Scanner;
 
-class PerfectNoOrNotM {
+class PerfectNoWithinMandN {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the enteger number : ");
         int n = sc.nextInt();
         int m = sc.nextInt();
-        int count = 0;
         for (int i = n; i <= m; i++) {
             boolean rf = isPerfect(i);
-            if (rf)
-                count++;
+            if (rf == true)
+                System.out.print(i + " ");
         }
-        System.out.println(count + " pefects number present in the " + n + " and " + m);
     }
 
     static boolean isPerfect(int n) {
