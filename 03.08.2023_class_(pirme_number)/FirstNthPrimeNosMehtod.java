@@ -5,11 +5,11 @@ class FirstNthPrimeNosMehtod {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the integer value : ");
         int n = sc.nextInt();
-        for (int i = 2; n > 0; i++) {
+        for (int i = 1; i<=n; i++) {
             boolean rs = isWPrime(i);
             if (rs) {
                 System.out.print(i + " ");
-                n--;
+                // n--;
             }
         }
     }

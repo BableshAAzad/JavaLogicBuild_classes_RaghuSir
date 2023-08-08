@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpyNoOrNot",
+            "request": "launch",
+            "mainClass": "Spy_Number.SpyNoOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeNoOrNot",
+            "request": "launch",
+            "mainClass": "Plaindrom.PalindromeNoOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "HappyNoOrNot",
+            "request": "launch",
+            "mainClass": "Happy_number.HappyNoOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PrimePalindromicWithinN",
+            "request": "launch",
+            "mainClass": "Plaindrom.PrimePalindromicWithinN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "XylemOrPloem",
+            "request": "launch",
+            "mainClass": "Xylem_Phleom_Number.XylemOrPloem",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "hiii",
+            "request": "launch",
+            "mainClass": "Plaindrom.hiii",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "jaaa",
+            "request": "launch",
+            "mainClass": "jaaa",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "HOja",
+            "request": "launch",
+            "mainClass": "HOja",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "Hahoo",
+            "request": "launch",
+            "mainClass": "Hahoo",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "HOHO",
+            "request": "launch",
+            "mainClass": "HOHO",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "HHH",
+            "request": "launch",
+            "mainClass": "HHH",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "HappyNoOrNot",
+            "request": "launch",
+            "mainClass": "HappyNoOrNot",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "XylemOrPloem",
+            "request": "launch",
+            "mainClass": "XylemOrPloem",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
+            "name": "PrimePalindromicWithinN",
+            "request": "launch",
+            "mainClass": "PrimePalindromicWithinN",
+            "projectName": "RaghuSir_javaLogic_class_690841db"
+        },
+        {
+            "type": "java",
             "name": "StrongNosCountWithinN",
             "request": "launch",
             "mainClass": "StrongNosCountWithinN",
