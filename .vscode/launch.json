@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "ba.Fibonacci",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNumbers",
+            "request": "launch",
+            "mainClass": "Fibonacci_No.FibonacciNumbers",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNosWithin20",
+            "request": "launch",
+            "mainClass": "Fibonacci_No.FibonacciNosWithin20",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNumbers",
+            "request": "launch",
+            "mainClass": "Fibonacci_Number.FibonacciNumbers",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "NthFibonacciNumber",
+            "request": "launch",
+            "mainClass": "Fibonacci_Number.NthFibonacciNumber",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNoWithinN",
+            "request": "launch",
+            "mainClass": "Fibonacci_Number.FibonacciNoWithinN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNosWithinN",
+            "request": "launch",
+            "mainClass": "Fibonacci_Number.FibonacciNosWithinN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNosWithin20",
+            "request": "launch",
+            "mainClass": "Fibonacci_Number.FibonacciNosWithin20",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "OctalToDecimal",
+            "request": "launch",
+            "mainClass": "DigitalCodeCoversion.OctalToDecimal",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "DigitalCodeCoversion.BinaryToDecimal",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToHexaDec",
+            "request": "launch",
+            "mainClass": "DigitalCodeCoversion.DecimalToHexaDec",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToHexaDecimal",
+            "request": "launch",
+            "mainClass": "DigitalCodeCoversion.DecimalToHexaDecimal",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToOctal",
+            "request": "launch",
+            "mainClass": "DigitalCodeCoversion.DecimalToOctal",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DecimaltoBinary",
+            "request": "launch",
+            "mainClass": "DigitalCodeCoversion.DecimaltoBinary",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "SpyNoOrNot",
             "request": "launch",
             "mainClass": "Spy_Number.SpyNoOrNot",
