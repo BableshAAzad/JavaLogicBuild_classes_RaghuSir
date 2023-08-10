@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumberCounter",
+            "request": "launch",
+            "mainClass": "Array.PrimeNumberCounter",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "primear",
+            "request": "launch",
+            "mainClass": "Array.primear",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CalculateValues",
+            "request": "launch",
+            "mainClass": "Array.CalculateValues",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BiggestNoInArray",
+            "request": "launch",
+            "mainClass": "Array.BiggestNoInArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrintNnameFromtheUser",
+            "request": "launch",
+            "mainClass": "Array.PrintNnameFromtheUser",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayValuesPrintWithinN",
+            "request": "launch",
+            "mainClass": "Array.ArrayValuesPrintWithinN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ManiArray",
+            "request": "launch",
+            "mainClass": "Array.ManiArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DeseriumNosCountWithinN",
+            "request": "launch",
+            "mainClass": "Deserium_Number.DeseriumNosCountWithinN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "Fibonacci",
             "request": "launch",
             "mainClass": "ba.Fibonacci",
