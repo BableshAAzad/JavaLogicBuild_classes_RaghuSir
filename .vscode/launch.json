@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CombineTwoArrays",
+            "request": "launch",
+            "mainClass": "Array.CombineOfTwoArrays.CombineTwoArrays",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReverseTheArray",
+            "request": "launch",
+            "mainClass": "Array.ReverseOfArray.ReverseTheArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceEveryArrayByThereSum",
+            "request": "launch",
+            "mainClass": "ArrayQs.ReplaceEveryArrayByThereSum",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumberCounter",
             "request": "launch",
             "mainClass": "Array.PrimeNumberCounter",

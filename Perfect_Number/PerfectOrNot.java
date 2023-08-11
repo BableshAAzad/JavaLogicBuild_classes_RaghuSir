@@ -1,3 +1,4 @@
+package Perfect_Number;
 import java.util.Scanner;
 
 class PerfectOrNot {

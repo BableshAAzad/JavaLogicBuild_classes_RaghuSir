@@ -41,8 +41,8 @@ public class ArrayOperation {
 
     int getSum(int[] ar) {
         int sum = 0;
-        for (int i = 0; i <= ar.length; i++) {
-            sum = sum + i;
+        for (int i = 0; i <= ar.length - 1; i++) {
+            sum = sum + ar[i];
         }
         return sum;
     }
@@ -61,20 +61,23 @@ public class ArrayOperation {
 
     }
 
-    void getPalindrom(int[] ar) {
+    int getPalindm(int[] ar) {
+        int count = 0;
         for (int i = 0; i < ar.length; i++) {
-            for (int j = 1; j <= ar[i]; j++) {
-                int rev = 0;
-                do {
-                    int d = ar[i] % 10;
-                    rev = rev * 10 + d;
-                    ar[i] = ar[i] / 10;
-                } while (ar[i] > 0);
-                if (rev == ar[i])
-                    System.out.print(ar[i] + " ");
-                rev = 0;
-            }
+            boolean bl = getPalindrom(ar[i]);
+            if (bl)
+                count++;
         }
+        return count;
     }
 
+    boolean getPalindrom(int n) {
+        int temp = n, sum = 0;
+        do {
+            int d = n % 10;
+            sum = sum * 10 + d;
+            n = n / 10;
+        } while (n != 0);
+         return(sum == temp);
+    }
 }

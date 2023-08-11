@@ -1,3 +1,4 @@
+package ArmStrong_Number;
 import java.util.Scanner;
 
 class ArmStrongNumber {

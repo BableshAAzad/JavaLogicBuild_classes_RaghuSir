@@ -16,7 +16,7 @@ public class CalculateValues {
         System.err.println("There prime numeber is : ");
         ao.getPrimeNumbers(x);
 
-        System.err.println("There palindrome numeber is : ");
-        ao.getPalindrom(x);
+         int r = ao.getPalindm(x);
+        System.err.println("There palindrome numeber is : "+r);
     }
 }

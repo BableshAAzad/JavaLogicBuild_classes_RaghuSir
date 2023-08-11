@@ -1,3 +1,4 @@
+package Strong_Number;
 import java.util.Scanner;
 
 class StrongNumber {

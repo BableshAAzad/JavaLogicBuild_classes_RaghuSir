@@ -1,3 +1,4 @@
+package Deserium_Number;
 import java.util.Scanner;
 
 class DeseriumNumber {

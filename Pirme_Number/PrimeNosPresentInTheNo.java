@@ -1,3 +1,4 @@
+package Pirme_Number;
 import java.util.Scanner;
 
 class PrimeNosPresentInTheNo {
