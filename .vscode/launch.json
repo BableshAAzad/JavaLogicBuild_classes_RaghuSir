@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DeseriumNoAndPrintWthinAll",
+            "request": "launch",
+            "mainClass": "Test_II.DeseriumNoAndPrintWthinAll",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DeseriumNoAndPrintWthinAll",
+            "request": "launch",
+            "mainClass": "DeseriumNoAndPrintWthinAll",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "CombineTwoArrays",
             "request": "launch",
             "mainClass": "Array.CombineOfTwoArrays.CombineTwoArrays",
