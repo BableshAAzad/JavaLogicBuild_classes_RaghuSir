@@ -10,7 +10,6 @@ class PerfectNosWithinN {
             boolean rf = isPerfect(i);
             if (rf)
             System.out.print(i + " ");
-                n--;
         }
     }
 

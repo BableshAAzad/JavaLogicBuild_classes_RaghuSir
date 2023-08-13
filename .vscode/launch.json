@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AverageDigitOf1234",
+            "request": "launch",
+            "mainClass": "Test_I.AverageDigitOf1234",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNosWithinN",
+            "request": "launch",
+            "mainClass": "Perfect_Number.PerfectNosWithinN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNosCountWithinNN",
+            "request": "launch",
+            "mainClass": "Test_I.PerfectNosCountWithinNN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrongNosWithinMMandNN",
+            "request": "launch",
+            "mainClass": "Test_I.ArmStrongNosWithinMMandNN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrongNosWithinMandN",
+            "request": "launch",
+            "mainClass": "ArmStrong_Number.ArmStrongNosWithinMandN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrongNosWithinMandN",
+            "request": "launch",
+            "mainClass": "Test_I.ArmStrongNosWithinMandN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "StrongNosWithinN",
+            "request": "launch",
+            "mainClass": "Test_I.StrongNosWithinN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ResultPrintStudent",
+            "request": "launch",
+            "mainClass": "Test_I.ResultPrintStudent",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberWithinN",
+            "request": "launch",
+            "mainClass": "Test_I.PrimeNumberWithinN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "EvenNumberWithinN",
+            "request": "launch",
+            "mainClass": "Test_I.EvenNumberWithinN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MonthNamePrint",
+            "request": "launch",
+            "mainClass": "Test_I.MonthNamePrint",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "TableOf5",
+            "request": "launch",
+            "mainClass": "Test_I.TableOf5",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "NumberIsEvenOrOddWithoutModulas",
+            "request": "launch",
+            "mainClass": "Test_I.NumberIsEvenOrOddWithoutModulas",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "DeseriumNoAndPrintWthinAll",
             "request": "launch",
             "mainClass": "Test_II.DeseriumNoAndPrintWthinAll",
