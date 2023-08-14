@@ -1,4 +1,4 @@
-package Array.ReverseOfArray;
+package Arrayyy.ReverseOfArray;
 
 public class ReverseTheArray {
     public static void main(String[] args) {

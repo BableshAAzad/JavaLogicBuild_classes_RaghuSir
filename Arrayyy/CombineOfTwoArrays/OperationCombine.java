@@ -1,4 +1,4 @@
-package Array.CombineOfTwoArrays;
+package Arrayyy.CombineOfTwoArrays;
 
 import java.util.Scanner;
 

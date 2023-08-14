@@ -1,4 +1,4 @@
-package Array;
+package Arrayyy;
 
 public class CalculateValues {
     public static void main(String[] args) {

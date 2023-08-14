@@ -1,4 +1,4 @@
-package Array.SumOfArrayAndReplaceBySum;
+package Arrayyy.SumOfArrayAndReplaceBySum;
 
 class ReplaceEveryArrayByThereSum {
      public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Array;
+package Arrayyy;
 
 public class BiggestNoInArray {
     public static void main(String[] args) {

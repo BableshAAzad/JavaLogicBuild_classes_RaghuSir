@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Studentxxx",
+            "request": "launch",
+            "mainClass": "Spy_Number.Studentxxx",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayyShortStringAscAtoZ",
+            "request": "launch",
+            "mainClass": "Arrayyy.ArrayyShortingString.ArrayyShortStringAscAtoZ",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayyShortStringAscLengthAndKthFind",
+            "request": "launch",
+            "mainClass": "Arrayyy.ArrayyShortingString.ArrayyShortStringAscLengthAndKthFind",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayyShortStringAscLength",
+            "request": "launch",
+            "mainClass": "Arrayyy.ArrayyShortingString.ArrayyShortStringAscLength",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayyShortString",
+            "request": "launch",
+            "mainClass": "Arrayyy.ArrayyShortingString.ArrayyShortString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayyShortDescAndKthLargest",
+            "request": "launch",
+            "mainClass": "Arrayyy.ArrayyyyShorting.ArrayyShortDescAndKthLargest",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayyShortAscAndKthSmallest",
+            "request": "launch",
+            "mainClass": "Arrayyy.ArrayyyyShorting.ArrayyShortAscAndKthSmallest",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayyyShort",
+            "request": "launch",
+            "mainClass": "Arrayyy.ArrayyyyShorting.ArrayyyShort",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayShort",
+            "request": "launch",
+            "mainClass": "Array.ArrayShorting.ArrayShort",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "AverageDigitOf1234",
             "request": "launch",
             "mainClass": "Test_I.AverageDigitOf1234",

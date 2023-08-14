@@ -1,4 +1,4 @@
-package Array.CombineOfTwoArrays;
+package Arrayyy.CombineOfTwoArrays;
 
 public class CombineTwoArrays {
     public static void main(String[] args) {

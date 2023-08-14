@@ -1,4 +1,4 @@
-package Array;
+package Arrayyy;
 
 public class PrimeNumberCounter {
 
