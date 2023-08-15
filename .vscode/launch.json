@@ -6,6 +6,153 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfArrayDigitsAndReplaceBySum",
+            "request": "launch",
+            "mainClass": "Arrayyy.SumOfArrayAndReplaceBySum.SumOfArrayDigitsAndReplaceBySum",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReverseOfTwoValues",
+            "request": "launch",
+            "mainClass": "Arrayyy.ReverseOfTwoValues",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "OperationRevArr",
+            "request": "launch",
+            "mainClass": "Arrayyy.ReverseOfArray.OperationRevArr",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReadArrayAndDisplay",
+            "request": "launch",
+            "mainClass": "Arrayyy.ReadArrayAndDisplay",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNosInArrayy",
+            "request": "launch",
+            "mainClass": "Arrayyy.PrimeNosInArrayy",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SmallestNoInArray",
+            "request": "launch",
+            "mainClass": "Arrayyy.SmallestNoInArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BiggestNoInArray",
+            "request": "launch",
+            "mainClass": "Arrayyy.BiggestNoInArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountElemets",
+            "request": "launch",
+            "mainClass": "Arrayyy.CountElemets",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "HowMenyTimesPresentValue",
+            "request": "launch",
+            "mainClass": "Arrayyy.HowMenyTimesPresentValue",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PelindromNumberWithinArr",
+            "request": "launch",
+            "mainClass": "Arrayyy.PelindromNumberWthinArray.PelindromNumberWithinArr",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DiseriumNumberWithinArr",
+            "request": "launch",
+            "mainClass": "Arrayyy.DiseriumNumberWthinArray.DiseriumNumberWithinArr",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeNoOrNot",
+            "request": "launch",
+            "mainClass": "Plaindrom_number.PalindromeNoOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CalculateValues",
+            "request": "launch",
+            "mainClass": "Arrayyy.CalculateValues",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrintNnameFromtheUser",
+            "request": "launch",
+            "mainClass": "Arrayyy.PrintNnameFromtheUser",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Arrage2ArInZigZagOrder",
+            "request": "launch",
+            "mainClass": "Arrayyy.CombineOfTwoArrays.Arrage2ArInZigZagOrder",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "InsertValueInGivenPosition",
+            "request": "launch",
+            "mainClass": "Arrayyy.InsertValueInGivenPosition",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DeleteElementInTheArrayy",
+            "request": "launch",
+            "mainClass": "Arrayyy.DeleteElementInTheArrayy",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyOfNos",
+            "request": "launch",
+            "mainClass": "Arrayyy.FrequencyOfNos",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyOfNoPresent",
+            "request": "launch",
+            "mainClass": "Arrayyy.FrequencyOfNoPresent",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicatesFromArr",
+            "request": "launch",
+            "mainClass": "Arrayyy.RemoveDuplicatesFromArr",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "NthLargestWithoutShorting",
+            "request": "launch",
+            "mainClass": "Arrayyy.NthLargestWithoutShorting",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "Mixed2arrSmalltoBigOrder",
             "request": "launch",
             "mainClass": "Arrayyy.Mixed2arrSmalltoBigOrder",

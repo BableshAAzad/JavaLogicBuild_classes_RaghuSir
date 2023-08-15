@@ -1,8 +1,15 @@
-package Arrayyy.SumOfArrayAndReplaceBySum;
+package Arrayyy;
 
 import java.util.Scanner;
 
-public class OprationArraySum {
+public class ReadArrayAndDisplay {
+    public static void main(String[] args) {
+        ReadArrayAndDisplay rd = new ReadArrayAndDisplay();
+        int[] x = rd.readArray();
+        System.out.println("User enter array : ");
+        rd.display(x);
+    }
+
     int[] readArray() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of array : ");
@@ -21,19 +28,4 @@ public class OprationArraySum {
         }
     }
 
-    void updateBySum(int[] ar) {
-        for (int i = 0; i < ar.length; i++) {
-            ar[i] = sumOfDigit(ar[i]);
-            System.out.println(ar[i]);
-        }
-    }
-
-    int sumOfDigit(int x){
-        int sum = 0;
-        do{
-            sum=sum+x%10;
-            x=x/10;
-        }while(x>0);
-        return sum;
-    }
 }

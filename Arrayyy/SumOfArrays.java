@@ -2,24 +2,24 @@ package Arrayyy;
 
 import java.util.Scanner;
 
-public class BiggestNoInArray {
+public class SumOfArrays {
     public static void main(String[] args) {
-        BiggestNoInArray ao = new BiggestNoInArray();
-        int[] x = ao.readArray();
-        int big = ao.getBiggest(x);
-        System.out.println("Beggest value is : " + big);
+        SumOfArrays sa = new SumOfArrays();
+        int[] x = sa.readArray();
+
+        int sum = sa.getSum(x);
+        System.out.println("Sum of array is : " + sum);
     }
 
-    int getBiggest(int[] ar) {
-        int big = ar[0];
-        for (int i = 1; i < ar.length; i++) {
-            if (ar[i] > big)
-                big = ar[i];
+    int getSum(int[] ar) {
+        int sum = 0;
+        for (int i = 0; i <= ar.length - 1; i++) {
+            sum = sum + ar[i];
         }
-        return big;
+        return sum;
     }
 
-    int[] readArray() {
+     int[] readArray() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of array : ");
         int n = sc.nextInt();
@@ -30,5 +30,4 @@ public class BiggestNoInArray {
         }
         return ar;
     }
-
 }

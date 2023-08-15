@@ -2,21 +2,22 @@ package Arrayyy;
 
 import java.util.Scanner;
 
-public class BiggestNoInArray {
+public class SmallestNoInArray {
     public static void main(String[] args) {
-        BiggestNoInArray ao = new BiggestNoInArray();
-        int[] x = ao.readArray();
-        int big = ao.getBiggest(x);
-        System.out.println("Beggest value is : " + big);
+        SmallestNoInArray ar = new SmallestNoInArray();
+        int[] x = ar.readArray();
+
+        int small = ar.getSmallest(x);
+        System.out.println("Smalles value is : " + small);
     }
 
-    int getBiggest(int[] ar) {
-        int big = ar[0];
+    int getSmallest(int[] ar) {
+        int small = ar[0];
         for (int i = 1; i < ar.length; i++) {
-            if (ar[i] > big)
-                big = ar[i];
+            if (ar[i] < small)
+                small = ar[i];
         }
-        return big;
+        return small;
     }
 
     int[] readArray() {
@@ -30,5 +31,4 @@ public class BiggestNoInArray {
         }
         return ar;
     }
-
 }
