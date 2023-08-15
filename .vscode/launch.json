@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Mixed2arrSmalltoBigOrder",
+            "request": "launch",
+            "mainClass": "Arrayyy.Mixed2arrSmalltoBigOrder",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Arrage2ArInZigZagOrder",
+            "request": "launch",
+            "mainClass": "Arrayyy.Arrage2ArInZigZagOrder",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CombineTwoArrays",
+            "request": "launch",
+            "mainClass": "Arrayyy.CombineOfTwoArrays.CombineTwoArrays",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Arrage2RrrInZigZagOrder",
+            "request": "launch",
+            "mainClass": "Arrayyy.Arrage2RrrInZigZagOrder",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "Studentxxx",
             "request": "launch",
             "mainClass": "Spy_Number.Studentxxx",
