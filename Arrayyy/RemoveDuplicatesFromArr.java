@@ -41,7 +41,8 @@ public class RemoveDuplicatesFromArr {
         int j = 0;
         for (int i = 0; i < ar.length; i++) {
             if (rs[i] == false)
-                br[j++] = ar[i];
+                br[j] = ar[i];
+                j++;
         }
         return br;
     }

@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromeOrNotInString",
+            "request": "launch",
+            "mainClass": "Stringgg.PalindromeOrNotInString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CapSmlDigSpChNosVowels",
+            "request": "launch",
+            "mainClass": "Stringgg.CapSmlDigSpChNosVowels",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SpecialCharCountInString",
+            "request": "launch",
+            "mainClass": "Stringgg.SpecialCharCountInString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitsInString",
+            "request": "launch",
+            "mainClass": "Stringgg.SumOfDigitsInString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DigitsCountInString",
+            "request": "launch",
+            "mainClass": "Stringgg.DigitsCountInString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CapitalAndSmallLattersPresntInStr",
+            "request": "launch",
+            "mainClass": "Stringgg.CapitalAndSmallLattersPresntInStr",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "WovelsNosInString",
+            "request": "launch",
+            "mainClass": "Stringgg.WovelsNosInString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "StringValuesGet",
+            "request": "launch",
+            "mainClass": "Stringgg.StringValuesGet",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CommonValuesBetween2Arrays",
+            "request": "launch",
+            "mainClass": "Arrayyy.CommonValuesBetween2Arrays",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "InsertOneArrToAnotherArr",
+            "request": "launch",
+            "mainClass": "Arrayyy.InsertOneArrToAnotherArr",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "SumOfArrayDigitsAndReplaceBySum",
             "request": "launch",
             "mainClass": "Arrayyy.SumOfArrayAndReplaceBySum.SumOfArrayDigitsAndReplaceBySum",
