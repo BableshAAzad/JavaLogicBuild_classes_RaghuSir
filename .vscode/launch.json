@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FirstCharCapitalConvertAllStr",
+            "request": "launch",
+            "mainClass": "Stringgg.FirstCharCapitalConvertAllStr",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "VowelsOnlyConUpperCase",
+            "request": "launch",
+            "mainClass": "Stringgg.VowelsOnlyConUpperCase",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ConvertUpperCase",
+            "request": "launch",
+            "mainClass": "Stringgg.ConvertUpperCase",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ConvertLowerCase",
+            "request": "launch",
+            "mainClass": "Stringgg.ConvertLowerCase",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeOrNoIfficientTechnique",
+            "request": "launch",
+            "mainClass": "Stringgg.PalindromeOrNoIfficientTechnique",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeOrNoRaghu",
+            "request": "launch",
+            "mainClass": "Stringgg.PalindromeOrNoRaghu",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitsInStringRadhu",
+            "request": "launch",
+            "mainClass": "Stringgg.SumOfDigitsInStringRadhu",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CapSmlDigSpChNosVowelsRaghu",
+            "request": "launch",
+            "mainClass": "Stringgg.CapSmlDigSpChNosVowelsRaghu",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "LargeV",
+            "request": "launch",
+            "mainClass": "Arrayyy.LargeV",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "PalindromeOrNotInString",
             "request": "launch",
             "mainClass": "Stringgg.PalindromeOrNotInString",
