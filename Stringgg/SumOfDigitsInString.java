@@ -11,7 +11,7 @@ public class SumOfDigitsInString {
         for (int index = 0; index < str.length(); index++) {
             char ch = str.charAt(index);
             if (ch >= '0' && ch <= '9')
-                dsum = ch + dsum;
+                dsum = dsum - 48 + ch;
 
         }
         System.out.println("Sum of digits is :" + dsum);

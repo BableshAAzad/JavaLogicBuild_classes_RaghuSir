@@ -2,7 +2,7 @@ package Stringgg;
 
 import java.util.Scanner;
 
-public class SpecialCharCountInString {
+public class CountSpecialCharInString {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the String : ");

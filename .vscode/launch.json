@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PangramOrNotUsingBuiltInMethod",
+            "request": "launch",
+            "mainClass": "Stringgg.PangramOrNotUsingBuiltInMethod",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PangramOrNot",
+            "request": "launch",
+            "mainClass": "Stringgg.PangramOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyOfEachCharAtoZOnly",
+            "request": "launch",
+            "mainClass": "Stringgg.FrequencyOfEachCharAtoZOnly",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyOfEachChar",
+            "request": "launch",
+            "mainClass": "Stringgg.FrequencyOfEachChar",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Stringgg.Practice",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountCharEachWords",
+            "request": "launch",
+            "mainClass": "Stringgg.CountCharEachWords",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReverseToSentance",
+            "request": "launch",
+            "mainClass": "Stringgg.ReverseToSentance",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReverseWordInTheSentance",
+            "request": "launch",
+            "mainClass": "Stringgg.ReverseWordInTheSentance",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SwapEveryWordFirstCharToLastChar",
+            "request": "launch",
+            "mainClass": "Stringgg.SwapEveryWordFirstCharToLastChar",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ConvertLastCharToUpperCase",
+            "request": "launch",
+            "mainClass": "Stringgg.ConvertLastCharToUpperCase",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "VowelsNosInString",
+            "request": "launch",
+            "mainClass": "Stringgg.VowelsNosInString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountDigitsInString",
+            "request": "launch",
+            "mainClass": "Stringgg.CountDigitsInString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "WordCountInSentance",
+            "request": "launch",
+            "mainClass": "Stringgg.WordCountInSentance",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "FirstCharCapitalConvertAllStr",
             "request": "launch",
             "mainClass": "Stringgg.FirstCharCapitalConvertAllStr",
