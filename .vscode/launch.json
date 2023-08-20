@@ -6,6 +6,202 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfArrayDigitsAndReplaceBySum",
+            "request": "launch",
+            "mainClass": "Arrayyy.SumOfArrayDigitsAndReplaceBySum",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PalindromNosCountinArray",
+            "request": "launch",
+            "mainClass": "Arrayyy.PalindromNosCountinArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FindValuePresentOrNotInArr",
+            "request": "launch",
+            "mainClass": "Arrayyy.FindValuePresentOrNotInArr",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountUserEnterElementHowMenyTimesPresent",
+            "request": "launch",
+            "mainClass": "Arrayyy.CountUserEnterElementHowMenyTimesPresent",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNosInArrAndCount",
+            "request": "launch",
+            "mainClass": "Arrayyy.PrimeNosInArrAndCount",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberCounter",
+            "request": "launch",
+            "mainClass": "Arrayyy.PrimeNumberCounter",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PracticeXx",
+            "request": "launch",
+            "mainClass": "Arrayyy.PracticeXx",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "XylemOrPloem",
+            "request": "launch",
+            "mainClass": "Xylem_Phleom_Number.XylemOrPloem",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "HappyNoOrNot",
+            "request": "launch",
+            "mainClass": "Happy_number.HappyNoOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SmallestDigitInTheNumber",
+            "request": "launch",
+            "mainClass": "Integerrr.SmallestDigitInTheNumber",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BiggestDigitInTheNumber",
+            "request": "launch",
+            "mainClass": "Integerrr.BiggestDigitInTheNumber",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SmallestDigitWithinNi",
+            "request": "launch",
+            "mainClass": "SmallestDigitWithinNi",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNosWithinN",
+            "request": "launch",
+            "mainClass": "Pirme_Number.PrimeNosWithinN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNosWithin100",
+            "request": "launch",
+            "mainClass": "Pirme_Number.PrimeNosWithin100",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNoOrNotMethod1",
+            "request": "launch",
+            "mainClass": "Pirme_Number.PrimeNoOrNotMethod1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNoOrNotMethod2",
+            "request": "launch",
+            "mainClass": "Pirme_Number.PrimeNoOrNotMethod2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Demox",
+            "request": "launch",
+            "mainClass": "DateIsCorrectOrNotCheck.Demox",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AAzadBro",
+            "request": "launch",
+            "mainClass": "Stringgg.AAzadBro",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AAzadDate",
+            "request": "launch",
+            "mainClass": "Test_I.AAzadDate",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MateIsCorrectOrNotT",
+            "request": "launch",
+            "mainClass": "Test_II.MateIsCorrectOrNotT",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DateIsCorrectOrNotT",
+            "request": "launch",
+            "mainClass": "Test_II.DateIsCorrectOrNotT",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DateIsCorrectOrNotTT",
+            "request": "launch",
+            "mainClass": "Perfect_Number.DateIsCorrectOrNotTT",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DateIsCorrectOrNott",
+            "request": "launch",
+            "mainClass": "DateIsCorrectOrNotChec.DateIsCorrectOrNott",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DateIsCorrectOrNot",
+            "request": "launch",
+            "mainClass": "DateIsCorrectOrNotChec.DateIsCorrectOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DateIsCorrectOrNot",
+            "request": "launch",
+            "mainClass": "DateIsCorrectOrNotCheck.DateIsCorrectOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DateIsCorrectOrNot",
+            "request": "launch",
+            "mainClass": "DateIsCorrectOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Biggest4IntTernary",
+            "request": "launch",
+            "mainClass": "Biggest4IntTernary",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberOrNotFor",
+            "request": "launch",
+            "mainClass": "PrimeNumberOrNotFor",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "PangramOrNotUsingBuiltInMethod",
             "request": "launch",
             "mainClass": "Stringgg.PangramOrNotUsingBuiltInMethod",

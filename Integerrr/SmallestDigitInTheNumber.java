@@ -1,18 +1,19 @@
-package Pirme_Number;
+package Integerrr;
+
 import java.util.Scanner;
 
-class PrimeNosPresentInTheNo {
+public class SmallestDigitInTheNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the integer value : ");
         int n = sc.nextInt();
-        int count = 0;
-        do {
+        int a = 9, b = n;
+        while (n != 0) {
             int d = n % 10;
-            if (d == 2 || d == 3 || d == 5 || d == 7)
-                count++;
+            if (d < a)
+                a = d;
             n = n / 10;
-        } while (n != 0);
-        System.out.println("Here " + count + " prime digits present");
+        }
+        System.out.println(a + " is a smallest digit in " + b);
     }
 }

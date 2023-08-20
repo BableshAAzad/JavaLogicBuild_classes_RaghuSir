@@ -2,24 +2,23 @@ package Arrayyy;
 
 import java.util.Scanner;
 
-public class CountUserEnterElementHowMenyTimesPresent {
+public class FindValuePresentWhichIndex {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        CountUserEnterElementHowMenyTimesPresent ce = new CountUserEnterElementHowMenyTimesPresent();
-        int[] x = ce.readArray();
+        FindValuePresentWhichIndex fv = new FindValuePresentWhichIndex();
+        int[] x = fv.readArray();
         System.out.println("Enter the value and check how many times present : ");
         int ele = sc.nextInt();
-        int c = ce.countElem(x, ele);
-        System.out.println(+ele+" value is present "+c+" times");   
+        int c = fv.countElem(x, ele);
+        System.out.println(+ele + " value is present in index " + c);
     }
 
-    int countElem(int[] ar, int ele){
-        int count = 0;
-        for(int i=0; i<ar.length; i++){
-            if(ar[i]==ele)
-               count++;
+    int countElem(int[] ar, int ele) {
+        for (int i = 0; i < ar.length; i++) {
+            if (ar[i] == ele)
+                return i;
         }
-        return count++;
+        return -1;
     }
 
     int[] readArray() {

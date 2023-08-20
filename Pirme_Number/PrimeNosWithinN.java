@@ -1,7 +1,7 @@
 package Pirme_Number;
 import java.util.Scanner;
 
-class FirstNthPrimeNosMehtod {
+class PrimeNosWithinN {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the integer value : ");
@@ -10,7 +10,6 @@ class FirstNthPrimeNosMehtod {
             boolean rs = isWPrime(i);
             if (rs) {
                 System.out.print(i + " ");
-                // n--;
             }
         }
     }
