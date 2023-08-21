@@ -10,7 +10,7 @@ public class CountUserEnterElementHowMenyTimesPresent {
         System.out.println("Enter the value and check how many times present : ");
         int ele = sc.nextInt();
         int c = ce.countElem(x, ele);
-        System.out.println(+ele+" value is present "+c+" times");   
+        System.out.println(ele+" value is present "+c+" times");   
     }
 
     int countElem(int[] ar, int ele){

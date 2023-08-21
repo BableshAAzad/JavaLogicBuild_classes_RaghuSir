@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberToSentance",
+            "request": "launch",
+            "mainClass": "Stringgg.NumberToSentance",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNosInString",
+            "request": "launch",
+            "mainClass": "Stringgg.SumOfNosInString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AnagramOrNotUsingBuiltInMethod",
+            "request": "launch",
+            "mainClass": "Stringgg.AnagramOrNotUsingBuiltInMethod",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AnagramOrNot",
+            "request": "launch",
+            "mainClass": "Stringgg.AnagramOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "SumOfArrayDigitsAndReplaceBySum",
             "request": "launch",
             "mainClass": "Arrayyy.SumOfArrayDigitsAndReplaceBySum",
