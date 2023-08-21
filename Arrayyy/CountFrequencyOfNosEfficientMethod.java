@@ -2,16 +2,15 @@ package Arrayyy;
 
 import java.util.Scanner;
 
-public class FrequencyOfNos {
+public class CountFrequencyOfNosEfficientMethod {
     public static void main(String[] args) {
-
-        FrequencyOfNos ao = new FrequencyOfNos();
+        CountFrequencyOfNosEfficientMethod ao = new CountFrequencyOfNosEfficientMethod();
         System.out.println("Enter the size of array : ");
-        int[] x = ao.readArraysr();
-        ao.printFrequencyN(x);
+        int[] x = ao.readArrayso();
+        ao.printFrequency(x);
     }
 
-    int[] readArraysr() {
+    int[] readArrayso() {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] ar = new int[n];
@@ -22,7 +21,7 @@ public class FrequencyOfNos {
         return ar;
     }
 
-    void printFrequencyN(int[] ar) {
+    void printFrequency(int[] ar) {
         int big = ar[0];
         for (int i = 1; i < ar.length; i++) {
             if (ar[i] > big)
@@ -33,9 +32,8 @@ public class FrequencyOfNos {
             count[ar[i]]++;
         }
         for (int i = 0; i < count.length; i++) {
-            if (count[ar[i]] != 0)
-                System.out.println(ar[i] + " is " + count[ar[i]] + " time present in array");
-            count[ar[i]] = 0;
+            if (count[i] != 0)
+                System.out.println(i + " is " + count[i]+" time present in array");
         }
     }
 }

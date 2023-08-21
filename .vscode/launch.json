@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountFrequencyOfNosEfficientMethod",
+            "request": "launch",
+            "mainClass": "Arrayyy.CountFrequencyOfNosEfficientMethod",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountFrequencyOfNos",
+            "request": "launch",
+            "mainClass": "Arrayyy.CountFrequencyOfNos",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayyShortAscAndKthSmallest",
+            "request": "launch",
+            "mainClass": "Arrayyy.ArrayyShortingIntiger.ArrayyShortAscAndKthSmallest",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayValuesPrintWithinN",
+            "request": "launch",
+            "mainClass": "Arrayyy.ArrayValuesPrintWithinN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "NumberToSentance",
             "request": "launch",
             "mainClass": "Stringgg.NumberToSentance",

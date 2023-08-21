@@ -2,16 +2,15 @@ package Arrayyy;
 
 import java.util.Scanner;
 
-public class FrequencyOfNoPresent {
+public class CountFrequencyOfNos {
     public static void main(String[] args) {
-
-        FrequencyOfNoPresent ao = new FrequencyOfNoPresent();
+        CountFrequencyOfNos ao = new CountFrequencyOfNos();
         System.out.println("Enter the size of array : ");
-        int[] x = ao.readArrayso();
-        ao.printFrequency(x);
+        int[] x = ao.readArraysr();
+        ao.printFrequencyN(x);
     }
 
-    int[] readArrayso() {
+    int[] readArraysr() {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] ar = new int[n];
@@ -22,19 +21,20 @@ public class FrequencyOfNoPresent {
         return ar;
     }
 
-    void printFrequency(int[] ar) {
+    void printFrequencyN(int[] ar) {
         int big = ar[0];
         for (int i = 1; i < ar.length; i++) {
             if (ar[i] > big)
                 big = ar[i];
         }
         int[] count = new int[big + 1];
-        for (int i = 0; i < ar.length; i++) {
-            count[ar[i]]++;
+        for (int j = 0; j < ar.length; j++) {
+            count[ar[j]]++;
         }
-        for (int i = 0; i < count.length; i++) {
-            if (count[i] != 0)
-                System.out.println(i + " is " + count[i]+" time present in array");
+        for (int k = 0; k < ar.length; k++) {
+            if (count[ar[k]] != 0)
+                System.out.println(ar[k] + " is " + count[ar[k]] + " time present in array");
+            count[ar[k]] = 0;
         }
     }
 }
