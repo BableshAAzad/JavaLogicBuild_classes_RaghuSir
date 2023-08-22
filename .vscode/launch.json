@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubStringReplaceWord",
+            "request": "launch",
+            "mainClass": "Stringgg.SubStringReplaceWord",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SubStringCountWord",
+            "request": "launch",
+            "mainClass": "Stringgg.SubStringCountWord",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SubStringWordPresentOrNot",
+            "request": "launch",
+            "mainClass": "Stringgg.SubStringWordPresentOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SubStringCount",
+            "request": "launch",
+            "mainClass": "Stringgg.SubStringCount",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SubStringPresentOrNot",
+            "request": "launch",
+            "mainClass": "Stringgg.SubStringPresentOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PangramOrNotUsingBuiltInMetho",
+            "request": "launch",
+            "mainClass": "Stringgg.PangramOrNotUsingBuiltInMetho",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "CountFrequencyOfNosEfficientMethod",
             "request": "launch",
             "mainClass": "Arrayyy.CountFrequencyOfNosEfficientMethod",
