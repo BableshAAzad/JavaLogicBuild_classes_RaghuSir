@@ -1,4 +1,4 @@
-package Stringgg;
+package Stringgg.Date;
 
 import java.util.Scanner;
 
