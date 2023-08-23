@@ -2,13 +2,16 @@ package Arrayyy;
 
 import java.util.Scanner;
 
-public class ReverseOfTwoValues {
+public class ReverseArrayMethod1 {
 
     public static void main(String[] args) {
-        ReverseOfTwoValues ra = new ReverseOfTwoValues();
+        ReverseArrayMethod1 ra = new ReverseArrayMethod1();
         int[] x = ra.readArray();
         System.out.println("Reverse of array is : ");
         ra.reverse(x);
+        for (int i = 0; i < x.length; i++) {
+            System.out.print(x[i] + " ");
+        }
     }
 
     int[] readArray() {
@@ -28,9 +31,7 @@ public class ReverseOfTwoValues {
         while (f < l) {
             int temp = ar[f];
             ar[f] = ar[l];
-            System.out.println(ar[f]);
             ar[l] = temp;
-            System.out.println(ar[l]);
             f++;
             l--;
         }

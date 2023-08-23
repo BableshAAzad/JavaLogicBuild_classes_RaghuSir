@@ -8,14 +8,12 @@ public class Practice {
         System.out.println("Enter the String : ");
         String str = sc.nextLine();
         int[] count = new int[26];
-        for (int i = 0; i < str.length(); i++) {
-            str = str.toLowerCase();
-            char ch = str.charAt(i);
-                count[ch-97]++;
-        }
-        for (int i = 0; i < count.length; i++) {
-            if (count[i] != 0)
-                System.out.println((char)(i+65) + "-->" + count[i]);
-        }
+        // char[] cr = str.toCharArray();
+        // System.out.println(cr[2]);
+        char ch = str.charAt(2);
+        System.out.println(ch);
+        // for (int i = 0; i < cr.length; i++) {
+        //     // str = str.toLowerCase();
+        // }
     }
 }
