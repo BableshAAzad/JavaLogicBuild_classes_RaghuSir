@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Subtract2Mtrix",
+            "request": "launch",
+            "mainClass": "Array2D.Subtract2Mtrix",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNosCountInMatrix",
+            "request": "launch",
+            "mainClass": "Array2D.PrimeNosCountInMatrix",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountEvenAndOddNos",
+            "request": "launch",
+            "mainClass": "Array2D.CountEvenAndOddNos",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AddAllNosInMatrix",
+            "request": "launch",
+            "mainClass": "Array2D.AddAllNosInMatrix",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SmallestNoInMatrix",
+            "request": "launch",
+            "mainClass": "Array2D.SmallestNoInMatrix",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoMatrix",
+            "request": "launch",
+            "mainClass": "Array2D.AddTwoMatrix",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "sta",
+            "request": "launch",
+            "mainClass": "Array2D.sta",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BiggestNoInMatrix",
+            "request": "launch",
+            "mainClass": "Array2D.BiggestNoInMatrix",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MatrixPrint",
+            "request": "launch",
+            "mainClass": "Array2D.MatrixPrint",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "combo",
+            "request": "launch",
+            "mainClass": "Array2D.combo",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Matrix3x3",
+            "request": "launch",
+            "mainClass": "Array2D.Matrix3x3",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "ReverseArrayMethod2",
             "request": "launch",
             "mainClass": "Arrayyy.ReverseArrayMethod2",

@@ -31,8 +31,9 @@ public class Arrage2ArInZigZagOrder {
 
     void display(int[] ar) {
         for (int i = 0; i < ar.length; i++) {
-            System.out.println(ar[i] + " ");
+            System.out.print(ar[i] + " ");
         }
+        System.out.println();
     }
 
     int[] zigzag(int[] a, int[] b) {

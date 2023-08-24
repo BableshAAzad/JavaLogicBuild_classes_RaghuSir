@@ -2,9 +2,9 @@ package Arrayyy;
 
 import java.util.Scanner;
 
-public class HowMenyTimesPresentValue {
+public class FrequencyOfArrValue {
     public static void main(String[] args) {
-        HowMenyTimesPresentValue hmt = new HowMenyTimesPresentValue();
+        FrequencyOfArrValue hmt = new FrequencyOfArrValue();
         int[] x = hmt.readArray();
         hmt.countRepitedValue(x);
     }
