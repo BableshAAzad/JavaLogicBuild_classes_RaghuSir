@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FirstAndSecondBigInArrayQ3",
+            "request": "launch",
+            "mainClass": "Test_III.FirstAndSecondBigInArrayQ3",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "IsertElementInArrayQ2",
+            "request": "launch",
+            "mainClass": "Test_III.IsertElementInArrayQ2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNumberInArrQ1",
+            "request": "launch",
+            "mainClass": "Test_III.PerfectNumberInArrQ1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "Subtract2Mtrix",
             "request": "launch",
             "mainClass": "Array2D.Subtract2Mtrix",
