@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfDigitsInString",
+            "request": "launch",
+            "mainClass": "Test_IV_String.SumOfDigitsInString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FrequncyOfStringQ4",
+            "request": "launch",
+            "mainClass": "Test_IV_String.FrequncyOfStringQ4",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyOfVowelInStringQ3",
+            "request": "launch",
+            "mainClass": "Test_IV_String.FrequencyOfVowelInStringQ3",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyOfVowelInString",
+            "request": "launch",
+            "mainClass": "Test_IV_String.FrequencyOfVowelInString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "WordIsPresentOrNotInMainStringQ2",
+            "request": "launch",
+            "mainClass": "Test_IV_String.WordIsPresentOrNotInMainStringQ2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AnagramOrNotQ1",
+            "request": "launch",
+            "mainClass": "Test_IV_String.AnagramOrNotQ1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "FirstAndSecondBigInArrayQ3",
             "request": "launch",
             "mainClass": "Test_III.FirstAndSecondBigInArrayQ3",
