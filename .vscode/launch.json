@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenAndOddNosCount",
+            "request": "launch",
+            "mainClass": "Array2D.EvenAndOddNosCount",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumOfAllNosInMatrix",
+            "request": "launch",
+            "mainClass": "Array2D.SumOfAllNosInMatrix",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "SumOfDigitsInString",
             "request": "launch",
             "mainClass": "Test_IV_String.SumOfDigitsInString",

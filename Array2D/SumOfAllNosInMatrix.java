@@ -2,20 +2,21 @@ package Array2D;
 
 import java.util.Scanner;
 
-public class AddAllNosInMatrix {
+public class SumOfAllNosInMatrix {
     public static void main(String[] args) {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
         int sum = getSum(x);
-        System.out.println("sum of all elements is : " + sum);
+        System.out.println("Sum of all numbers is : " + sum);
     }
 
     static int getSum(int[][] mat) {
         int sum = 0;
         for (int i = 0; i < mat.length; i++) {
-            for (int j = 0; j < mat[i].length; j++)
+            for (int j = 0; j < mat[i].length; j++) {
                 sum = sum + mat[i][j];
+            }
         }
         return sum;
     }
