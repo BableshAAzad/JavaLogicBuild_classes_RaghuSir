@@ -2,28 +2,27 @@ package Array2D;
 
 import java.util.Scanner;
 
-public class EvenAndOddNosCountRaghu {
+public class SmallestElementsDigonalwise {
     public static void main(String[] args) {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
-        int[] count = evenOddCount(x);
-        System.out.println("Total even number : " + count[0]);
-        System.out.println("Total odd number : " + count[1]);
+        int[] bigd = digonalWiseSmall(x);
+        for (int i = 0; i < bigd.length; i++) {
+            System.out.println(i + 1 + " Digonal smallest element is : " + bigd[i]);
+        }
     }
 
-    static int[] evenOddCount(int[][] mat) {
-        int odd = 0, even = 0;
-        for (int i = 0; i < mat.length; i++) {
-            for (int j = 0; j < mat[i].length; j++) {
-                if (mat[i][j] % 2 == 0)
-                    even++;
-                else
-                    odd++;
-            }
+    static int[] digonalWiseSmall(int[][] mat) {
+        int pSmall = mat[0][0], sSmall = mat[0][mat.length - 1];
+        for (int i = 1; i < mat.length; i++) {
+            if (mat[i][i] < pSmall)
+                pSmall = mat[i][i];
+            if (mat[i][mat.length - 1 - i] < sSmall)
+                sSmall = mat[i][mat.length - 1 - i];
         }
-        int count[] = { even, odd };
-        return count;
+        int[] bg = { pSmall, sSmall };
+        return bg;
     }
 
     static int[][] readMat() {

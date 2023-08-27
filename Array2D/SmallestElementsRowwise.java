@@ -2,28 +2,28 @@ package Array2D;
 
 import java.util.Scanner;
 
-public class EvenAndOddNosCountRaghu {
+public class SmallestElementsRowwise {
     public static void main(String[] args) {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
-        int[] count = evenOddCount(x);
-        System.out.println("Total even number : " + count[0]);
-        System.out.println("Total odd number : " + count[1]);
+        int[] smallR = rowwiseSmall(x);
+        for (int i = 0; i < smallR.length; i++) {
+            System.out.println(i + 1 + " Row smallest element is : " + smallR[i]);
+        }
     }
 
-    static int[] evenOddCount(int[][] mat) {
-        int odd = 0, even = 0;
+    static int[] rowwiseSmall(int[][] mat) {
+        int[] bg = new int[mat.length];
         for (int i = 0; i < mat.length; i++) {
+            int small = mat[i][0];
             for (int j = 0; j < mat[i].length; j++) {
-                if (mat[i][j] % 2 == 0)
-                    even++;
-                else
-                    odd++;
+                if (mat[i][j] < small)
+                    small = mat[i][j];
             }
+            bg[i] = small;
         }
-        int count[] = { even, odd };
-        return count;
+        return bg;
     }
 
     static int[][] readMat() {

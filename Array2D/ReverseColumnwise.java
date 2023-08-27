@@ -2,28 +2,27 @@ package Array2D;
 
 import java.util.Scanner;
 
-public class EvenAndOddNosCountRaghu {
+public class ReverseColumnwise {
     public static void main(String[] args) {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
-        int[] count = evenOddCount(x);
-        System.out.println("Total even number : " + count[0]);
-        System.out.println("Total odd number : " + count[1]);
+        reverseCol(x);
+        System.out.println("After reverse column elements : ");
+        display(x);
     }
 
-    static int[] evenOddCount(int[][] mat) {
-        int odd = 0, even = 0;
+    static void reverseCol(int[][] mat) {
         for (int i = 0; i < mat.length; i++) {
-            for (int j = 0; j < mat[i].length; j++) {
-                if (mat[i][j] % 2 == 0)
-                    even++;
-                else
-                    odd++;
+            int f = 0, l = mat.length - 1;
+            while (f < l) {
+                int temp = mat[f][i];
+                mat[f][i] = mat[l][i];
+                mat[l][i] = temp;
+                f++;
+                l--;
             }
         }
-        int count[] = { even, odd };
-        return count;
     }
 
     static int[][] readMat() {

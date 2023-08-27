@@ -2,28 +2,28 @@ package Array2D;
 
 import java.util.Scanner;
 
-public class EvenAndOddNosCountRaghu {
+public class BiggestElementsRowwise {
     public static void main(String[] args) {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
-        int[] count = evenOddCount(x);
-        System.out.println("Total even number : " + count[0]);
-        System.out.println("Total odd number : " + count[1]);
+        int[] bigs = rowwiseBig(x);
+        for (int i = 0; i < bigs.length; i++) {
+            System.out.println(i + 1 + " Row biggest element is : " + bigs[i]);
+        }
     }
 
-    static int[] evenOddCount(int[][] mat) {
-        int odd = 0, even = 0;
+    static int[] rowwiseBig(int[][] mat) {
+        int[] bg = new int[mat.length];
         for (int i = 0; i < mat.length; i++) {
+            int big = mat[i][0];
             for (int j = 0; j < mat[i].length; j++) {
-                if (mat[i][j] % 2 == 0)
-                    even++;
-                else
-                    odd++;
+                if (mat[i][j] > big)
+                    big = mat[i][j];
             }
+            bg[i] = big;
         }
-        int count[] = { even, odd };
-        return count;
+        return bg;
     }
 
     static int[][] readMat() {

@@ -2,28 +2,27 @@ package Array2D;
 
 import java.util.Scanner;
 
-public class EvenAndOddNosCountRaghu {
+public class BiggestElementsDigonalwise {
     public static void main(String[] args) {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
-        int[] count = evenOddCount(x);
-        System.out.println("Total even number : " + count[0]);
-        System.out.println("Total odd number : " + count[1]);
+        int[] bigd = digonalWiseBig(x);
+        for (int i = 0; i < bigd.length; i++) {
+            System.out.println(i + 1 + " Digonal biggest element is : " + bigd[i]);
+        }
     }
 
-    static int[] evenOddCount(int[][] mat) {
-        int odd = 0, even = 0;
-        for (int i = 0; i < mat.length; i++) {
-            for (int j = 0; j < mat[i].length; j++) {
-                if (mat[i][j] % 2 == 0)
-                    even++;
-                else
-                    odd++;
-            }
+    static int[] digonalWiseBig(int[][] mat) {
+        int pBig = mat[0][0], sBig = mat[0][mat.length - 1];
+        for (int i = 1; i < mat.length; i++) {
+            if (mat[i][i] > pBig)
+                pBig = mat[i][i];
+            if (mat[i][mat.length - 1 - i] > sBig)
+                sBig = mat[i][mat.length - 1 - i];
         }
-        int count[] = { even, odd };
-        return count;
+        int[] bg = { pBig, sBig };
+        return bg;
     }
 
     static int[][] readMat() {

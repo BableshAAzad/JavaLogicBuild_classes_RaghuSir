@@ -2,7 +2,7 @@ package Array2D;
 
 import java.util.Scanner;
 
-public class EvenAndOddNosCountRaghu {
+public class EvenAndOddNosCountWithoutIfElse {
     public static void main(String[] args) {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
@@ -13,16 +13,12 @@ public class EvenAndOddNosCountRaghu {
     }
 
     static int[] evenOddCount(int[][] mat) {
-        int odd = 0, even = 0;
+        int[] count = { 0, 0 };
         for (int i = 0; i < mat.length; i++) {
             for (int j = 0; j < mat[i].length; j++) {
-                if (mat[i][j] % 2 == 0)
-                    even++;
-                else
-                    odd++;
+                count[mat[i][j] % 2]++;
             }
         }
-        int count[] = { even, odd };
         return count;
     }
 

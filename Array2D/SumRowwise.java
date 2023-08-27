@@ -2,28 +2,25 @@ package Array2D;
 
 import java.util.Scanner;
 
-public class EvenAndOddNosCountRaghu {
+public class SumRowwise {
     public static void main(String[] args) {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
-        int[] count = evenOddCount(x);
-        System.out.println("Total even number : " + count[0]);
-        System.out.println("Total odd number : " + count[1]);
+        int[] rsum = rowSum(x);
+        for (int i = 0; i < rsum.length; i++) {
+            System.out.println(i + 1 + " Row sum is : " + rsum[i]);
+        }
     }
 
-    static int[] evenOddCount(int[][] mat) {
-        int odd = 0, even = 0;
+    static int[] rowSum(int[][] mat) {
+        int[] sum = new int[mat.length];
         for (int i = 0; i < mat.length; i++) {
             for (int j = 0; j < mat[i].length; j++) {
-                if (mat[i][j] % 2 == 0)
-                    even++;
-                else
-                    odd++;
+                sum[i] = sum[i]+mat[i][j];
             }
         }
-        int count[] = { even, odd };
-        return count;
+        return sum;
     }
 
     static int[][] readMat() {

@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseDigonalElements",
+            "request": "launch",
+            "mainClass": "Array2D.ReverseDigonalElements",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SmallestElementsDigonalwise",
+            "request": "launch",
+            "mainClass": "Array2D.SmallestElementsDigonalwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BiggestElementsDigonalwise",
+            "request": "launch",
+            "mainClass": "Array2D.BiggestElementsDigonalwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ProductRowwise",
+            "request": "launch",
+            "mainClass": "Array2D.ProductRowwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ProductColumnwise",
+            "request": "launch",
+            "mainClass": "Array2D.ProductColumnwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SmallestElementsColumnwise",
+            "request": "launch",
+            "mainClass": "Array2D.SmallestElementsColumnwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SmallestElementsRowwise",
+            "request": "launch",
+            "mainClass": "Array2D.SmallestElementsRowwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReverseColumnwise",
+            "request": "launch",
+            "mainClass": "Array2D.ReverseColumnwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReverseRowwise",
+            "request": "launch",
+            "mainClass": "Array2D.ReverseRowwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumColumnwise",
+            "request": "launch",
+            "mainClass": "Array2D.SumColumnwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumRowwise",
+            "request": "launch",
+            "mainClass": "Array2D.SumRowwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BiggestElementsColumnwise",
+            "request": "launch",
+            "mainClass": "Array2D.BiggestElementsColumnwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BiggestElementsRowwise",
+            "request": "launch",
+            "mainClass": "Array2D.BiggestElementsRowwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "EvenAndOddNosCountWithoutIfElse",
+            "request": "launch",
+            "mainClass": "Array2D.EvenAndOddNosCountWithoutIfElse",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "EvenAndOddNosCountRaghu",
+            "request": "launch",
+            "mainClass": "Array2D.EvenAndOddNosCountRaghu",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "EvenAndOddNosCount",
             "request": "launch",
             "mainClass": "Array2D.EvenAndOddNosCount",
