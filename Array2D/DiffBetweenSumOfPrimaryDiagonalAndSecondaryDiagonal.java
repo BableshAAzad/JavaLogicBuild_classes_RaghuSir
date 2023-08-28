@@ -2,29 +2,37 @@ package Array2D;
 
 import java.util.Scanner;
 
-public class ReverseDigonalElements {
+public class DiffBetweenSumOfPrimaryDiagonalAndSecondaryDiagonal {
     public static void main(String[] args) {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
-        digonalReverse(x);
-        System.out.println("After reverse the diagonal elements : ");
-        display(x);
+        int sumF = sumFirstDiagonal(x);
+        int sumS = sumSecondDiagonal(x);
+        System.out.println("After sum of first diagonal elements : " + sumF);
+        System.out.println("After sum of Second diagonal elements : " + sumS);
+        System.out.println(
+                "Difference between sum of primary diagonal and sum of secondary diagonal is : " + (sumF - sumS));
     }
 
-    static void digonalReverse(int[][] mat) {
-        int f = 0, l = mat.length - 1;
-        while (f < l) {
-            int temp = mat[f][f];
-            mat[f][f] = mat[l][l];
-            mat[l][l] = temp;
-
-            temp = mat[f][l];
-            mat[f][l] = mat[l][f];
-            mat[l][f] = temp;
-            f++;
-            l--;
+    static int sumFirstDiagonal(int[][] mat) {
+        int i = 0, j = 0, sum = 0;
+        while (i < mat.length) {
+            sum = sum + mat[i][j];
+            i++;
+            j++;
         }
+        return sum;
+    }
+
+    static int sumSecondDiagonal(int[][] mat) {
+        int i = 0, j = mat.length - 1, sum = 0;
+        while (i < mat.length) {
+            sum = sum + mat[i][j];
+            i++;
+            j--;
+        }
+        return sum;
     }
 
     static int[][] readMat() {

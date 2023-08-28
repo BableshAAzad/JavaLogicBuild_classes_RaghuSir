@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MostOccuredDublicateCharInStringWord",
+            "request": "launch",
+            "mainClass": "Stringgg.MostOccuredDublicateCharInStringWord",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MostOccuredCharInStringWord",
+            "request": "launch",
+            "mainClass": "Stringgg.MostOccuredCharInStringWord",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MissingElementFromShortedArray",
+            "request": "launch",
+            "mainClass": "Arrayyy.MissingElementFromShortedArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MissingElementFromShortingArray",
+            "request": "launch",
+            "mainClass": "Arrayyy.MissingElementFromShortingArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfTwoMatrix",
+            "request": "launch",
+            "mainClass": "Array2D.ProductOfTwoMatrix",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SpiralOrderAntiClockwise",
+            "request": "launch",
+            "mainClass": "Array2D.SpiralOrderAntiClockwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SpiralOrderClockwise",
+            "request": "launch",
+            "mainClass": "Array2D.SpiralOrderClockwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DiffBetweenSumOfPrimaryDiagonalAndSecondaryDiagonal",
+            "request": "launch",
+            "mainClass": "Array2D.DiffBetweenSumOfPrimaryDiagonalAndSecondaryDiagonal",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Roted90Right",
+            "request": "launch",
+            "mainClass": "Array2D.Roted90Right",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Roted90Left",
+            "request": "launch",
+            "mainClass": "Array2D.Roted90Left",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "TransposaMatrixNonSquareMatrix",
+            "request": "launch",
+            "mainClass": "Array2D.TransposaMatrixNonSquareMatrix",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "TransposaMatrixSquareMatrix",
+            "request": "launch",
+            "mainClass": "Array2D.TransposaMatrixSquareMatrix",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "ReverseDigonalElements",
             "request": "launch",
             "mainClass": "Array2D.ReverseDigonalElements",

@@ -2,28 +2,37 @@ package Array2D;
 
 import java.util.Scanner;
 
-public class ReverseDigonalElements {
+public class Roted90Right {
     public static void main(String[] args) {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
-        digonalReverse(x);
-        System.out.println("After reverse the diagonal elements : ");
+        transePosaMatSqr(x);
+        reverseRow(x);
+        System.out.println("After 90 deg right roted : ");
         display(x);
     }
 
-    static void digonalReverse(int[][] mat) {
-        int f = 0, l = mat.length - 1;
-        while (f < l) {
-            int temp = mat[f][f];
-            mat[f][f] = mat[l][l];
-            mat[l][l] = temp;
+    static void transePosaMatSqr(int[][] mat) {
+        for (int i = 0; i < mat.length; i++) {
+            for (int j = i + 1; j < mat[i].length; j++) {
+                int temp = mat[i][j];
+                mat[i][j] = mat[j][i];
+                mat[j][i] = temp;
+            }
+        }
+    }
 
-            temp = mat[f][l];
-            mat[f][l] = mat[l][f];
-            mat[l][f] = temp;
-            f++;
-            l--;
+    static void reverseRow(int[][] mat) {
+        for (int i = 0; i < mat.length; i++) {
+            int f = 0, l = mat[0].length - 1;
+            while (f < l) {
+                int temp = mat[i][f];
+                mat[i][f] = mat[i][l];
+                mat[i][l] = temp;
+                f++;
+                l--;
+            }
         }
     }
 
@@ -39,6 +48,7 @@ public class ReverseDigonalElements {
                 mat[i][j] = sc.nextInt();
             }
         }
+        sc.close();
         return mat;
     }
 

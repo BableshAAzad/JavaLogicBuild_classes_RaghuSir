@@ -2,29 +2,24 @@ package Array2D;
 
 import java.util.Scanner;
 
-public class ReverseDigonalElements {
+public class TransposaMatrixNonSquareMatrix {
     public static void main(String[] args) {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
-        digonalReverse(x);
-        System.out.println("After reverse the diagonal elements : ");
-        display(x);
+        int[][] z = transePosaMatNonSqr(x);
+        System.out.println("After Trasposa Non square matrix : ");
+        display(z);
     }
 
-    static void digonalReverse(int[][] mat) {
-        int f = 0, l = mat.length - 1;
-        while (f < l) {
-            int temp = mat[f][f];
-            mat[f][f] = mat[l][l];
-            mat[l][l] = temp;
-
-            temp = mat[f][l];
-            mat[f][l] = mat[l][f];
-            mat[l][f] = temp;
-            f++;
-            l--;
+    static int[][] transePosaMatNonSqr(int[][] mat) {
+        int[][] tm = new int[mat[0].length][mat.length];
+        for (int i = 0; i < mat.length; i++) {
+            for (int j = 0; j < mat[i].length; j++) {
+                tm[j][i] = mat[i][j];
+            }
         }
+        return tm;
     }
 
     static int[][] readMat() {
@@ -39,6 +34,7 @@ public class ReverseDigonalElements {
                 mat[i][j] = sc.nextInt();
             }
         }
+        sc.close();
         return mat;
     }
 

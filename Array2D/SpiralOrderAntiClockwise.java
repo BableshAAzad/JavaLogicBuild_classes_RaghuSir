@@ -2,29 +2,33 @@ package Array2D;
 
 import java.util.Scanner;
 
-public class ReverseDigonalElements {
+public class SpiralOrderAntiClockwise {
     public static void main(String[] args) {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
-        digonalReverse(x);
-        System.out.println("After reverse the diagonal elements : ");
-        display(x);
+        System.out.println("After antiClockwise spiral : ");
+        antiClockwiseSpiral(x);
     }
 
-    static void digonalReverse(int[][] mat) {
-        int f = 0, l = mat.length - 1;
-        while (f < l) {
-            int temp = mat[f][f];
-            mat[f][f] = mat[l][l];
-            mat[l][l] = temp;
-
-            temp = mat[f][l];
-            mat[f][l] = mat[l][f];
-            mat[l][f] = temp;
-            f++;
-            l--;
+    static void antiClockwiseSpiral(int[][] x) {
+        int n = x.length;
+        for (int i = 0, j = n - 1; i < j; i++, j--) {
+            for (int k = i; k < j; k++) {
+                System.out.print(x[k][i] + " ");
+            }
+            for (int k = i; k < j; k++) {
+                System.out.print(x[j][k] + " ");
+            }
+            for (int k = j; k > i; k--) {
+                System.out.print(x[k][j] + " ");
+            }
+            for (int k = j; k > i; k--) {
+                System.out.print(x[i][k] + " ");
+            }
         }
+        if (n % 2 == 1)
+            System.out.print(x[n / 2][n / 2]);
     }
 
     static int[][] readMat() {
