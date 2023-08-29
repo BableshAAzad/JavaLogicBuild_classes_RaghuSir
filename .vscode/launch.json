@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PercentageOfCharInWordsQ6",
+            "request": "launch",
+            "mainClass": "Test_IV_String.PercentageOfCharInWordsQ6",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "Test_IV_String.Q3",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "MostOccuredDublicateCharInStringWord",
             "request": "launch",
             "mainClass": "Stringgg.MostOccuredDublicateCharInStringWord",
