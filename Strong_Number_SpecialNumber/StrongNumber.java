@@ -1,16 +1,16 @@
-package Strong_Number;
+package Strong_Number_SpecialNumber;
 import java.util.Scanner;
 
-class StrongNosWithinN {
+class StrongNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter The integer : ");
         int n = sc.nextInt();
-        for (int i = 0; i <= n; i++) {
-            boolean rs = isStrong(i);
-            if (rs)
-                System.out.print(i + " ");
-        }
+        boolean rs = isStrong(n);
+        if (rs)
+            System.out.println(n + " is a strong number");
+        else
+            System.out.println(n + " is not a strong number");
     }
 
     static boolean isStrong(int x) {

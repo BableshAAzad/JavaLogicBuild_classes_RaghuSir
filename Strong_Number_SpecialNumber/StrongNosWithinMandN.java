@@ -1,9 +1,15 @@
-package Strong_Number;
-class StrongNosWithin100 {
+package Strong_Number_SpecialNumber;
+import java.util.Scanner;
+
+class StrongNosWithinMandN {
     public static void main(String[] args) {
-        for (int i = 0; i <= 100; i++) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter The integer : ");
+        int m = sc.nextInt();
+        int n = sc.nextInt();
+        for (int i = m; i <= n; i++) {
             boolean rs = isStrong(i);
-            if (rs)
+            if (rs==true)
                 System.out.print(i + " ");
         }
     }

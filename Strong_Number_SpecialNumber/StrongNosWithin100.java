@@ -1,18 +1,11 @@
-package Strong_Number;
-import java.util.Scanner;
-
-class StrongNosCountWithinN {
+package Strong_Number_SpecialNumber;
+class StrongNosWithin100 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter The integer : ");
-        int n = sc.nextInt();
-        int count = 0;
-        for (int i = 1; i <= n; i++) {
+        for (int i = 0; i <= 100; i++) {
             boolean rs = isStrong(i);
-            if (rs == true)
-                count++;
+            if (rs)
+                System.out.print(i + " ");
         }
-        System.out.print(count + " strong numbers present within " + n);
     }
 
     static boolean isStrong(int x) {

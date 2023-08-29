@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Patty",
+            "request": "launch",
+            "mainClass": "Pattern.Patty",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Pattern1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SpecialNumberOrNot",
+            "request": "launch",
+            "mainClass": "SpecialNumber.SpecialNumberOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Special2DigitOrNot",
+            "request": "launch",
+            "mainClass": "Integerrr.Special2DigitOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "OnttoNthNumber1",
             "request": "launch",
             "mainClass": "OnttoNthNumber1",
