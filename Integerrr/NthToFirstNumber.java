@@ -1,3 +1,4 @@
+package Integerrr;
 import java.util.Scanner;
 
 class NthToFirstNumber {
