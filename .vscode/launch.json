@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OnttoNthNumber1",
+            "request": "launch",
+            "mainClass": "OnttoNthNumber1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "OneIntPrintPositive",
+            "request": "launch",
+            "mainClass": "Integerrr.OneIntPrintPositive",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FrequncyOfStringQ4Method2",
+            "request": "launch",
+            "mainClass": "Test_IV_String.FrequncyOfStringQ4Method2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "PercentageOfCharInWordsQ6",
             "request": "launch",
             "mainClass": "Test_IV_String.PercentageOfCharInWordsQ6",

@@ -6,7 +6,7 @@ public class PercentageOfCharInWordsQ6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a word : ");
-        String str = sc.nextLine();
+        String str = sc.nextLine(); //AABB or ABCD or ABAB
         perc(str);
         sc.close();
     }
