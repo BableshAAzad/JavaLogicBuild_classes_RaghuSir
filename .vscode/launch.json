@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LeapYear100to2000Q6",
+            "request": "launch",
+            "mainClass": "Test_V_NumberSystem.LeapYear100to2000Q6",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DecToHexaQ4",
+            "request": "launch",
+            "mainClass": "Test_V_NumberSystem.DecToHexaQ4",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BinToDecQ3",
+            "request": "launch",
+            "mainClass": "Test_V_NumberSystem.BinToDecQ3",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FabonaciSeriesWithinNQ2",
+            "request": "launch",
+            "mainClass": "Test_V_NumberSystem.FabonaciSeriesWithinNQ2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SquareRootQ6",
+            "request": "launch",
+            "mainClass": "Test_V_NumberSystem.SquareRootQ6",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FactorialWithinNQ1",
+            "request": "launch",
+            "mainClass": "Test_V_NumberSystem.FactorialWithinNQ1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "PrimeNosCountWithinN",
             "request": "launch",
             "mainClass": "Pirme_Number.PrimeNosCountWithinN",
