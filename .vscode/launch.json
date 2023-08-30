@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseTheArrayElements",
+            "request": "launch",
+            "mainClass": "Arrayyy.ReverseTheArrayElements",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "LeapYear100to2000Q6",
             "request": "launch",
             "mainClass": "Test_V_NumberSystem.LeapYear100to2000Q6",

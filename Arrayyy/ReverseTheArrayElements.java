@@ -1,6 +1,5 @@
 package Arrayyy;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ReverseTheArrayElements {
@@ -8,8 +7,20 @@ public class ReverseTheArrayElements {
         ReverseTheArrayElements ra = new ReverseTheArrayElements();
         int[] x = ra.readArray();
         System.out.println("Reverse of array is : ");
-        // int[] rev = ra.reverseElements(x);
-        // System.out.println(Arrays.toString(rev));
+        for (int i = 0; i < x.length; i++) {
+            x[i] = revElements(x[i]);
+            System.out.print(x[i]+" ");
+        }
+    }
+
+    static int revElements(int n) {
+        int rev = 0;
+        do {
+            int d = n % 10;
+            rev = rev * 10 + d;
+            n = n / 10;
+        } while (n != 0);
+        return rev;
     }
 
     int[] readArray() {
@@ -21,25 +32,7 @@ public class ReverseTheArrayElements {
         for (int i = 0; i < ar.length; i++) {
             ar[i] = sc.nextInt();
         }
+        sc.close();
         return ar;
     }
-
-    // int[] reverseElements(int[] n) {
-    //     String rs = "";
-    //     for (int i = 0; i < n.length; i++) {
-    //         int f = i;
-    //         while (i < n.length) {
-    //             i++;
-    //         }
-    //         int l = i - 1;
-    //         while (l >= f) {
-    //             rs = rs + n[i];
-    //             l--;
-    //         }
-    //         if (i < n.length)
-    //             rs = rs + n[i];
-    //     }
-        
-    // }
-
 }
