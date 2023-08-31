@@ -21,4 +21,15 @@ public class SquareRootQ5 {
 		} while ((t - sq) != 0);
 		return sq;
 	}
+
+
+	
+    // static void exchange() {
+    //     int n = 17;
+    //     for (int i = 2; i <n/2; i++) {
+    //         if(n/i==i)
+    //         System.out.println(i);
+    //     }
+
+    // }
 }

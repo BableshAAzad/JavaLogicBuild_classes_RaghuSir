@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DistinctArrayInTwoArray",
+            "request": "launch",
+            "mainClass": "Test_VI_Array.DistinctArrayInTwoArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SquareRootQ5",
+            "request": "launch",
+            "mainClass": "Test_V_NumberSystem.SquareRootQ5",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ExchangeFirstPartToSPartQ1",
+            "request": "launch",
+            "mainClass": "Test_VI_Array.ExchangeFirstPartToSPartQ1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "HappyNumberSumInArrQ10",
             "request": "launch",
             "mainClass": "Test_III_Array.HappyNumberSumInArrQ10",
