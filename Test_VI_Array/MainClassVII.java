@@ -3,7 +3,7 @@ package Test_VI_Array;
 import java.util.Scanner;
 
 public class MainClassVII {
-    static int[] readArrayy() {
+   public static int[] readArrayy() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of array :");
         int n = sc.nextInt();
@@ -16,7 +16,7 @@ public class MainClassVII {
         return ar;
     }
 
-    static void displayy(int[] ar) {
+   public static void displayy(int[] ar) {
         for (int i = 0; i < ar.length; i++) {
             System.out.print(ar[i] + " ");
         }

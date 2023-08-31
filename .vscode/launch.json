@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountCharEachWordsMethod1",
+            "request": "launch",
+            "mainClass": "Stringgg.CountCharEachWordsMethod1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "DistinctArrayInTwoArray",
             "request": "launch",
             "mainClass": "Test_VI_Array.DistinctArrayInTwoArray",

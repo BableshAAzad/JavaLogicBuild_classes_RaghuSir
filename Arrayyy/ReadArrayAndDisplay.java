@@ -10,7 +10,7 @@ public class ReadArrayAndDisplay {
         rd.display(x);
     }
 
-    int[] readArray() {
+    public int[] readArray() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of array : ");
         int n = sc.nextInt();
@@ -22,7 +22,7 @@ public class ReadArrayAndDisplay {
         return ar;
     }
 
-    void display(int[] ar) {
+    public void display(int[] ar) {
         for (int i = 0; i < ar.length; i++) {
             System.out.println(ar[i] + " ");
         }
