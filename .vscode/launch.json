@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Practice2D",
+            "request": "launch",
+            "mainClass": "Array2D.Practice2D",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "ABCDEFGq3",
             "request": "launch",
             "mainClass": "Test_VII_String.ABCDEFGq3",

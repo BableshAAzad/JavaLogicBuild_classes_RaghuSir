@@ -11,17 +11,17 @@ public class EvenAndOddNosCount {
     }
 
     static void evenOddCount(int[][] mat) {
-        int odd=0, even=0;
+        int odd = 0, even = 0;
         for (int i = 0; i < mat.length; i++) {
             for (int j = 0; j < mat[i].length; j++) {
-                if(mat[i][j]%2==0)
+                if (mat[i][j] % 2 == 0)
                     even++;
                 else
-                     odd++;
+                    odd++;
             }
         }
-        System.out.println("Total even number : "+even);
-        System.out.println("Total odd number : "+odd);
+        System.out.println("Total even number : " + even);
+        System.out.println("Total odd number : " + odd);
     }
 
     static int[][] readMat() {
