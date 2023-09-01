@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ABCDEFGq3",
+            "request": "launch",
+            "mainClass": "Test_VII_String.ABCDEFGq3",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AnagramOrNotQ6",
+            "request": "launch",
+            "mainClass": "Test_VII_String.AnagramOrNotQ6",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "PasswordValidationQ4",
             "request": "launch",
             "mainClass": "Test_VII_String.PasswordValidationQ4",
