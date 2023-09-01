@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PasswordValidationQ4",
+            "request": "launch",
+            "mainClass": "Test_VII_String.PasswordValidationQ4",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "CountCharEachWordsMethod1",
             "request": "launch",
             "mainClass": "Stringgg.CountCharEachWordsMethod1",
