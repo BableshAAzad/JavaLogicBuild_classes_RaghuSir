@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A2Z1A1D1Q4",
+            "request": "launch",
+            "mainClass": "Test_IV_String.A2Z1A1D1Q4",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SecondBigEachColShortingMethod",
+            "request": "launch",
+            "mainClass": "Test_VIII_2D_Array.SecondBigEachColShortingMethod",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ShortingArrayAsc",
+            "request": "launch",
+            "mainClass": "Arrayyy.ArrayyShortingIntiger.ShortingArrayAsc",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SecondBigEachColumn",
+            "request": "launch",
+            "mainClass": "Test_VIII_2D_Array.SecondBigEachColumn",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "NegativePositiveNoMethod2",
+            "request": "launch",
+            "mainClass": "Arrayyy.NegativePositiveNoMethod2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PracticeArr",
+            "request": "launch",
+            "mainClass": "Arrayyy.PracticeArr",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "Practice2D",
             "request": "launch",
             "mainClass": "Array2D.Practice2D",

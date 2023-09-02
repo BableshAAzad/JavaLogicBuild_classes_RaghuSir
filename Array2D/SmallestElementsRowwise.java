@@ -14,16 +14,16 @@ public class SmallestElementsRowwise {
     }
 
     static int[] rowwiseSmall(int[][] mat) {
-        int[] bg = new int[mat.length];
+        int[] sm = new int[mat.length];
         for (int i = 0; i < mat.length; i++) {
             int small = mat[i][0];
             for (int j = 0; j < mat[i].length; j++) {
                 if (mat[i][j] < small)
                     small = mat[i][j];
             }
-            bg[i] = small;
+            sm[i] = small;
         }
-        return bg;
+        return sm;
     }
 
     static int[][] readMat() {

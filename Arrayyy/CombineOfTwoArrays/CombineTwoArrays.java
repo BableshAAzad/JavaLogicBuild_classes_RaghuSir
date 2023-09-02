@@ -25,14 +25,15 @@ public class CombineTwoArrays {
         return c;
     }
 
-    int[] readArray() {
+    public int[] readArray() {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] ar = new int[n];
-        System.out.println("Enter the " + n + " values : ");
+        System.out.println("Enter " + n + " values");
         for (int i = 0; i < ar.length; i++) {
             ar[i] = sc.nextInt();
         }
+        // sc.close();
         return ar;
     }
 
