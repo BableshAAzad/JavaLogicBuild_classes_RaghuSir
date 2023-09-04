@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AAABBCDAABBBq1",
+            "request": "launch",
+            "mainClass": "Test_VII_String.AAABBCDAABBBq1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "A2Z1A1D1Q4",
             "request": "launch",
             "mainClass": "Test_IV_String.A2Z1A1D1Q4",

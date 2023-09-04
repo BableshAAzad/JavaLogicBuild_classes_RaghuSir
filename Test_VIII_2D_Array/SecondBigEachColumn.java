@@ -20,7 +20,6 @@ public class SecondBigEachColumn {
             for (int j = 0; j < mat.length; j++) {
                 if (mat[j][i] > fbig) {
                     sbig = fbig;
-                    sbig = fbig;
                     fbig = mat[j][i];
                 }
                 if (mat[j][i] > sbig && mat[j][i] != fbig)

@@ -5,27 +5,25 @@ public class SecondBigEachColShortingMethod {
         int[][] mat = MainClass.readMat();
         System.out.println("User Entered matrix is : ");
         MainClass.displayMat(mat);
-        int[][] sbig = secondBigM(mat);
+        int[] sbi = secondBigM(mat);
         System.out.println("Columnwise second biggest element is : ");
-        MainClass.displayMat(sbig);
-        // for (int i = 0; i < sbig.length; i++) {
-        // System.out.print(sbig[i] + " ");
-        // }
+        for (int i = 0; i < sbi.length; i++) {
+        System.out.print(sbi[i] + " ");
+        }
     }
 
-    private static int[][] secondBigM(int[][] mat) {
-        // int[] sbi = new int[50];
+    private static int[] secondBigM(int[][] mat) {
+        int[] sbi = new int[mat[0].length];
         for (int i = 0; i < mat[0].length; i++) {
-            int f = 0, l = mat.length - 1;
-            while (f < l) {
-                if (mat[f][i] > mat[l][i]) {
-                    mat[f][i] = mat[l][i];
-                    f++;
-                    l--;
-                }
+            int fbig = mat[0][i], sbig = 0;
+            for (int j = 0; j < mat.length; j++) {
+                if (mat[j][i] > fbig) {
+                    fbig = mat[j][i];
+                } else if (sbig < fbig && sbig < mat[j][i])
+                    sbig = mat[j][i];
             }
+            sbi[i] = sbig;
         }
-        // sbi[i] = temp;
-        return mat;
+        return sbi;
     }
 }
