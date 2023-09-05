@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Mixed2SortedArrInAscOrder",
+            "request": "launch",
+            "mainClass": "Arrayyy.CombineOfTwoArrays.Mixed2SortedArrInAscOrder",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CombineTwoArrAscMyMethod",
+            "request": "launch",
+            "mainClass": "Arrayyy.CombineOfTwoArrays.CombineTwoArrAscMyMethod",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CombineTwoArrMyMethod",
+            "request": "launch",
+            "mainClass": "Arrayyy.CombineOfTwoArrays.CombineTwoArrMyMethod",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Mixed2arrSmalltoBigOrder",
+            "request": "launch",
+            "mainClass": "Arrayyy.CombineOfTwoArrays.Mixed2arrSmalltoBigOrder",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "AAABBCDAABBBq1",
             "request": "launch",
             "mainClass": "Test_VII_String.AAABBCDAABBBq1",
