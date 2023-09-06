@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimePelindromeQ3",
+            "request": "launch",
+            "mainClass": "Test_VI_Array.PrimePelindromeQ3",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "Mixed2SortedArrInAscOrder",
             "request": "launch",
             "mainClass": "Arrayyy.CombineOfTwoArrays.Mixed2SortedArrInAscOrder",
