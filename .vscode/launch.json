@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UniqueNumberOrNotMethod2",
+            "request": "launch",
+            "mainClass": "NUMBERbaseProgram.UniqueNumber.UniqueNumberOrNotMethod2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "UniqueNumberOrNot",
+            "request": "launch",
+            "mainClass": "NUMBERbaseProgram.UniqueNumber.UniqueNumberOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DigitToWord",
+            "request": "launch",
+            "mainClass": "Happy_number.DigitToWord",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "NeonNoOrNotMethod2",
+            "request": "launch",
+            "mainClass": "NeonNumber.NeonNoOrNotMethod2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SunnyNoOrNotMethod2",
+            "request": "launch",
+            "mainClass": "SunnyNumber.SunnyNoOrNotMethod2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "NeonNoOrNotMethod1",
+            "request": "launch",
+            "mainClass": "NeonNumber.NeonNoOrNotMethod1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "NeonOrNot",
+            "request": "launch",
+            "mainClass": "NeonNumber.NeonOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "PrimePelindromeQ3",
             "request": "launch",
             "mainClass": "Test_VI_Array.PrimePelindromeQ3",
