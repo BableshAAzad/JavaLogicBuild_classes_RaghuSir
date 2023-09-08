@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StartArrayWithGivenIntAndPrintRemainingQ9",
+            "request": "launch",
+            "mainClass": "Test_III_Array.StartArrayWithGivenIntAndPrintRemainingQ9",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "IntegerNumbersPrintInArrQ8",
+            "request": "launch",
+            "mainClass": "Test_III_Array.IntegerNumbersPrintInArrQ8",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DeseriumNosInArrayQ7",
+            "request": "launch",
+            "mainClass": "Test_III_Array.DeseriumNosInArrayQ7",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountOfFrequencyQ6",
+            "request": "launch",
+            "mainClass": "Test_III_Array.CountOfFrequencyQ6",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CommorEleBetween2ArrQ5",
+            "request": "launch",
+            "mainClass": "Test_III_Array.CommorEleBetween2ArrQ5",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MissingElementFromShortingArrQ4",
+            "request": "launch",
+            "mainClass": "Test_III_Array.MissingElementFromShortingArrQ4",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MissingElementsInShortedArrayMethod1",
+            "request": "launch",
+            "mainClass": "Arrayyy.MissingElementsInShortedArrayMethod1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MissingElementsInShortedArray",
+            "request": "launch",
+            "mainClass": "Test_III_Array.MissingElementsInShortedArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "HearDemo",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Heart.HearDemo",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "UniqueNumberOrNotMethod2",
             "request": "launch",
             "mainClass": "NUMBERbaseProgram.UniqueNumber.UniqueNumberOrNotMethod2",
