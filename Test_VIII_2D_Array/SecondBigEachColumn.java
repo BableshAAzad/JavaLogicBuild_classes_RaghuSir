@@ -14,9 +14,9 @@ public class SecondBigEachColumn {
 
     private static int[] secondBigC(int[][] mat) {
         int[] sbi = new int[mat[0].length];
-        int fbig = Integer.MIN_VALUE;
-        int sbig = Integer.MIN_VALUE;
         for (int i = 0; i < mat[0].length; i++) {
+            int fbig = Integer.MIN_VALUE;
+            int sbig = Integer.MIN_VALUE;
             for (int j = 0; j < mat.length; j++) {
                 if (mat[j][i] > fbig) {
                     sbig = fbig;

@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class FirstBigAndSecondBig {
     public static void main(String[] args) {
-        System.out.println("Enter the size of array : ");
         int[] x = readArr();
         fandsBig(x);
     }
@@ -18,14 +17,15 @@ public class FirstBigAndSecondBig {
                 fbig = ar[i];
             }
             if (ar[i] > sbig && ar[i] != fbig)
-                sbig = ar[i];
+            sbig = ar[i];
         }
         System.out.println("First big is : " + fbig);
         System.out.println("Second big is : " + sbig);
     }
-
+    
     static int[] readArr() {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the size of array : ");
         int n = sc.nextInt();
         int[] ar = new int[n];
         System.out.println("Enter the " + n + " values : ");

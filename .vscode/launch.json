@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GivenWordIsPresentOrNotInMainStrQ5",
+            "request": "launch",
+            "mainClass": "Test_VII_String.GivenWordIsPresentOrNotInMainStrQ5",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MaximunOccuringCharInStringQ2",
+            "request": "launch",
+            "mainClass": "Test_VII_String.MaximunOccuringCharInStringQ2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "InsertElementFromArrInSpecificPositionQ6",
+            "request": "launch",
+            "mainClass": "Test_VI_Array.InsertElementFromArrInSpecificPositionQ6",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDublicateValueFromArrQ5",
+            "request": "launch",
+            "mainClass": "Test_VI_Array.RemoveDublicateValueFromArrQ5",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FirstAndSecondSmallestInArrayQ4",
+            "request": "launch",
+            "mainClass": "Test_VI_Array.FirstAndSecondSmallestInArrayQ4",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "StartArrayWithGivenIntAndPrintRemainingQ9",
             "request": "launch",
             "mainClass": "Test_III_Array.StartArrayWithGivenIntAndPrintRemainingQ9",

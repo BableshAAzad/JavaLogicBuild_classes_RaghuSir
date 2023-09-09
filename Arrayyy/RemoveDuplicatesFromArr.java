@@ -7,10 +7,13 @@ public class RemoveDuplicatesFromArr {
     public static void main(String[] args) {
         RemoveDuplicatesFromArr ao = new RemoveDuplicatesFromArr();
         int[] x = ao.readArrr();
-        int[] y=ao.removeDuplicates(x);
+        System.out.println("Before Removing dublicate values : ");
+        System.out.println(Arrays.toString(x));
+        int[] y = ao.removeDuplicates(x);
+        System.out.println("After removing dublicats values : ");
         System.out.println(Arrays.toString(y));
     }
-    
+
     int[] readArrr() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of array : ");
@@ -36,7 +39,7 @@ public class RemoveDuplicatesFromArr {
                 }
             }
         }
-        int[] br = new int[ar.length-count];
+        int[] br = new int[ar.length - count];
         int j = 0;
         for (int i = 0; i < ar.length; i++) {
             if (rs[i] == false)
