@@ -1,25 +1,25 @@
-package Array2D;
+package Test_VIII_2D_Array;
 
 import java.util.Scanner;
 
-public class ProductOfTwoMatrix {
+public class MultiplicationOf2MatQ2 {
     public static void main(String[] args) {
-        System.out.println("Enter the order of first matrix (row*column) : ");
+        System.out.println("Enter the details of 1st Matrix : ");
         int[][] x = readMat();
-        System.out.println("Enter the order of second matrix (row*column) : ");
+        System.out.println("Enter the details of 2st Matrix : ");
         int[][] y = readMat();
-        System.out.println("User entered first matrix : ");
-        display(x);
-        System.out.println("User entered second matrix : ");
-        display(y);
-        int[][] rprod = product2Mat(x, y);
+        System.out.println("User Entered 1st Matrix is : ");
+        displayMat(x);
+        System.out.println("User Entered 2st Matrix is : ");
+        displayMat(y);
+        int[][] z = muxOf2Mat(x, y);
         System.out.println("After product of both matrix : ");
-        display(rprod);
+        displayMat(z);
     }
 
-    static int[][] product2Mat(int[][] x, int[][] y) {
+    private static int[][] muxOf2Mat(int[][] x, int[][] y) {
         if (x[0].length != y.length) {
-            System.out.println("Not possible to product");
+            System.out.println("Not Possible to product");
             return null;
         }
         int[][] z = new int[x.length][y[0].length];
@@ -33,7 +33,7 @@ public class ProductOfTwoMatrix {
         return z;
     }
 
-    static int[][] readMat() {
+   private static int[][] readMat() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of Matrix (row*cloumn) : ");
         int row = sc.nextInt();
@@ -48,7 +48,7 @@ public class ProductOfTwoMatrix {
         return mat;
     }
 
-    static void display(int[][] mat) {
+   private static void displayMat(int[][] mat) {
         for (int i = 0; i < mat.length; i++) {
             for (int j = 0; j < mat[i].length; j++) {
                 System.out.print(mat[i][j] + " ");

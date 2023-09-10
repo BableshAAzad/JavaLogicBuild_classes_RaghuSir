@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TrasposaMatrixQ6",
+            "request": "launch",
+            "mainClass": "Test_VIII_2D_Array.TrasposaMatrixQ6",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SpriralPrintMatQ5",
+            "request": "launch",
+            "mainClass": "Test_VIII_2D_Array.SpriralPrintMatQ5",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AdditionOf2MatQ3",
+            "request": "launch",
+            "mainClass": "Test_VIII_2D_Array.AdditionOf2MatQ3",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationOf2MatQ2",
+            "request": "launch",
+            "mainClass": "Test_VIII_2D_Array.MultiplicationOf2MatQ2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BiggestElementInEachRowQ1",
+            "request": "launch",
+            "mainClass": "Test_VIII_2D_Array.BiggestElementInEachRowQ1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "Pattern2",
             "request": "launch",
             "mainClass": "PatternUsingForLoop.Pattern2",

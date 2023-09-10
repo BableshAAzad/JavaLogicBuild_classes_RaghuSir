@@ -1,6 +1,6 @@
 package Test_VIII_2D_Array;
 
-public class SecondBigEachColShortingMethod {
+public class SecondBigEachColShortingMethodQ4 {
     public static void main(String[] args) {
         int[][] mat = MainClass.readMat();
         System.out.println("User Entered matrix is : ");
