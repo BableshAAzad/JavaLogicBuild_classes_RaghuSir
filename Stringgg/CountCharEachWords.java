@@ -19,7 +19,7 @@ public class CountCharEachWords {
         for (String word : words) {
             int characterCount = word.length();
             System.out.println(word + " " + characterCount);
-        }
+        // }
         return count;
     }
 }

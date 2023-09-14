@@ -2,21 +2,21 @@ package Stringgg;
 
 import java.util.Scanner;
 
-public class CountWordsInSentance {
+public class CountCharctors {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter sentance : ");
+        System.out.println("Enter a sentance : ");
         String str = sc.nextLine();
         sc.close();
-        int count = countWords(str);
-        System.out.println("Total " + count + " Words present");
+        int count = countChars(str);
+        System.out.println("Here total words present in : " + count);
     }
 
-    static int countWords(String str) {
-        int count = 0;
+    private static int countChars(String str) {
         char[] ch = str.toCharArray();
+        int count = 0;
         for (int i = 0; i < ch.length; i++) {
-            if (i == 0 && ch[i] != ' ' || ch[i] != ' ' && ch[i - 1] == ' ')
+            if (ch[i] != ' ')
                 count++;
         }
         return count;

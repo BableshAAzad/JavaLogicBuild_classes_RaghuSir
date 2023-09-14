@@ -7,6 +7,7 @@ public class ReverseToSentance {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the String : ");
         String str = sc.nextLine();
+        sc.close();
         String st = reverseSentance(str);
         System.out.println(" After reverse sentance : " + st);
     }

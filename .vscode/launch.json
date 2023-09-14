@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseWordsInBuildMethod",
+            "request": "launch",
+            "mainClass": "Stringgg.ReverseWordsInBuildMethod",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReverseSentanceInBuildMethod",
+            "request": "launch",
+            "mainClass": "Stringgg.ReverseSentanceInBuildMethod",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReverseToSentanceUsingInbuildMethod",
+            "request": "launch",
+            "mainClass": "Stringgg.ReverseToSentanceUsingInbuildMethod",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountCharctors",
+            "request": "launch",
+            "mainClass": "Stringgg.CountCharctors",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountWordsInSentance",
+            "request": "launch",
+            "mainClass": "Stringgg.CountWordsInSentance",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ConvertVowelsCapAndConsonentSmall",
+            "request": "launch",
+            "mainClass": "Stringgg.ConvertVowelsCapAndConsonentSmall",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "TrasposaMatrixQ6",
             "request": "launch",
             "mainClass": "Test_VIII_2D_Array.TrasposaMatrixQ6",

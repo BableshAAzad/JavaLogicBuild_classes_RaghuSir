@@ -17,6 +17,7 @@ public class ConvertUpperCase {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the String : ");
         String str = sc.nextLine();
+        sc.close();
         String st = toUpperCase(str);
         System.out.println(str + " : after conversion Uppercase : " + st);
     }
