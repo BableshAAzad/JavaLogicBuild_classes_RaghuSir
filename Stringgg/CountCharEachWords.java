@@ -1,25 +1,20 @@
 package Stringgg;
 
-import java.util.*;
-
 public class CountCharEachWords {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter sentance : ");
-        String str = sc.nextLine();
-        int count = countCharEW(str);
-        System.out.println(count);
-    }
-
-    static int countCharEW(String str) {
+        String str = " Bab   ku a sjh ";
+        char[] ch = str.toCharArray();
         int count = 0;
-        // char[] ch = str.toCharArray();
-        String[] words = str.split(" ");
-
-        for (String word : words) {
-            int characterCount = word.length();
-            System.out.println(word + " " + characterCount);
-        // }
-        return count;
+        for (int i = 0; i < ch.length; i++) {
+            if (ch[i] != ' ')
+                count++;
+            else {
+                if (count != 0)
+                    System.out.print(count + " ");
+                count = 0;
+            }
+        }
+        if (count != 0)
+            System.out.print(count);
     }
 }

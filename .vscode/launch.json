@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PracticeString",
+            "request": "launch",
+            "mainClass": "Stringgg.PracticeString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AABBBCDAAABBDmethod2",
+            "request": "launch",
+            "mainClass": "Stringgg.AABBBCDAAABBDmethod2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AABBBCDAAABBD",
+            "request": "launch",
+            "mainClass": "Stringgg.AABBBCDAAABBD",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "PeramidABCD",
             "request": "launch",
             "mainClass": "PatternUsingForLoop.PeramidABCD",
