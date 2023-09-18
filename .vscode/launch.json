@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Piramid7",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Piramid7",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Piramid6",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Piramid6",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Piramid5",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Piramid5",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Piramid4",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Piramid4",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "TriangleMirror",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.TriangleMirror",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "TrangleDown2",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.TrangleDown2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "TrangleDown1",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.TrangleDown1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "TrangleDown",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.TrangleDown",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PiramindDown",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.PiramindDown",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "PracticeString",
             "request": "launch",
             "mainClass": "Stringgg.PracticeString",
