@@ -1,6 +1,6 @@
-package PatternUsingForLoop;
+package PatternUsingForLoop.Piramid;
 
-public class PeramidABCD {
+public class PiramidABCD {
     public static void main(String[] args) {
         int n = 5, b = 1, a = n;
         for (int i = 1; i <= n; i++) {

@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DamaruSidha2",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Damaru.DamaruSidha2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DamaruSidhar2",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Damaru.DamaruSidhar2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DamaruSidha",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Damaru.DamaruSidha",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DamaruUlta",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Damaru.DamaruUlta",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DamaruUlta",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.DamaruUlta",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DamaruSidha",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.DamaruSidha",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MainDe",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.MainDe",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "UltaDamroo",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.UltaDamroo",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PeramidABCD1",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.PeramidABCD1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Piramid9",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Piramid9",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Piramid8",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Piramid8",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Pattern8",
+            "request": "launch",
+            "mainClass": "PatternUsingForLoop.Pattern8",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "Piramid7",
             "request": "launch",
             "mainClass": "PatternUsingForLoop.Piramid7",

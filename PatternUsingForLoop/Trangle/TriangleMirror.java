@@ -1,15 +1,14 @@
-package PatternUsingForLoop;
+package PatternUsingForLoop.Trangle;
 
-public class TrangleDown1 {
+public class TriangleMirror {
     public static void main(String[] args) {
-        int n = 5, b = 0;
+        int n = 8;
         for (int i = 1; i <= n; i++) {
-            for (int j = 0; j <= b; j++)
+            for (int j = 1; j <= n-i; j++)
                 System.out.print("  ");
-            for (int j = i; j <= n; j++) {
+            for (int j = 1; j <= i; j++) {
                 System.out.print(j + " ");
             }
-            b++;
             System.out.println();
         }
     }
