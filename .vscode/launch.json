@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Solution1",
+            "request": "launch",
+            "mainClass": "Xylem_Phleom_Number.Solution1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Xylem_Phleom_Number.Solution",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "DamaruSidha2",
             "request": "launch",
             "mainClass": "PatternUsingForLoop.Damaru.DamaruSidha2",

@@ -7,16 +7,16 @@ public class PrimeNosCountInMatrix {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
-        evenOddCount(x);
+        primeNosCount(x);
     }
 
-    static void evenOddCount(int[][] mat) {
-        int count = 1, n = 0;
+    static void primeNosCount(int[][] mat) {
+        int count = 0, n = 0;
         for (int i = 0; i < mat.length; i++) {
             for (int j = 0; j < mat[i].length; j++) {
-                for (int k = 1; k < mat[i][j]/2; k++) {
+                for (int k = 1; k <= mat[i][j]; k++) {
                     if (mat[i][j] % k == 0)
-                        count=count+1;
+                        count++;
                 }
                 if (count == 2)
                     n++;

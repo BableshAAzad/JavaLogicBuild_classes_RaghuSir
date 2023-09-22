@@ -7,8 +7,8 @@ public class SmallestNoInMatrix {
         int[][] x = readMat();
         System.out.println("User entered matrix : ");
         display(x);
-        int big = getSmallest(x);
-        System.out.println("Smallest is : " + big);
+        int small = getSmallest(x);
+        System.out.println("Smallest is : " + small);
     }
     static int getSmallest(int[][] mat) {
         int small = mat[0][0];
