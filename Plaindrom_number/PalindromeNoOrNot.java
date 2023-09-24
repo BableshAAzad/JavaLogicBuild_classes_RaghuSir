@@ -1,4 +1,5 @@
 package Plaindrom_number;
+
 import java.util.Scanner;
 
 class PalindromeNoOrNot {
@@ -13,16 +14,16 @@ class PalindromeNoOrNot {
             System.out.println(n + " is a not palindrom number");
     }
 
-    static boolean isPrimePeli(int n){
-        int rev = 0, initN=n;
-        do{
-            int d = n%10;
-            rev= rev*10+d;
-            n= n/10;
-        }while(n>0);
-        if(rev==initN)
-          return true;
+    static boolean isPrimePeli(int n) {
+        int rev = 0, initN = n;
+        do {
+            int d = n % 10;
+            rev = rev * 10 + d;
+            n = n / 10;
+        } while (n > 0);
+        if (rev == initN)
+            return true;
         else
-           return false;
+            return false;
     }
 }

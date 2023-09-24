@@ -1,4 +1,4 @@
-package PatternUsingForLoop.Piramid;
+package Pattern.Piramid;
 
 public class PiramindDown {
     public static void main(String[] args) {

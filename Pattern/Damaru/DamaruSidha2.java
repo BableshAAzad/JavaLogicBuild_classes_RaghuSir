@@ -1,4 +1,4 @@
-package PatternUsingForLoop.Damaru;
+package Pattern.Damaru;
 
 public class DamaruSidha2 {
     public static void main(String[] args) {

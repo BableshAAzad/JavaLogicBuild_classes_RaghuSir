@@ -1,4 +1,4 @@
-package PatternUsingForLoop.Heart;
+package Pattern.Heart;
 
 public class HearDemo {
     public static void main(String[] args) {

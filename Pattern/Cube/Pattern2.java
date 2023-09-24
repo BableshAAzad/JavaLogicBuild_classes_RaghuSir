@@ -1,4 +1,4 @@
-package PatternUsingForLoop.Cube;
+package Pattern.Cube;
 
 public class Pattern2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package PatternUsingForLoop.Cube;
+package Pattern.Cube;
 
 // import java.util.Scanner;
 
