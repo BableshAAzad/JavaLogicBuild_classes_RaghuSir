@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "Pattern.AtoZLatters.A",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DOB",
+            "request": "launch",
+            "mainClass": "Stringgg.Date.DOB",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "No8",
+            "request": "launch",
+            "mainClass": "Pattern.OtoINumbers.No8",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "Heart",
             "request": "launch",
             "mainClass": "Pattern.Heart.Heart",
