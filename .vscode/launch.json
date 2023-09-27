@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "Pattern.AtoZLatters.B",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "H",
+            "request": "launch",
+            "mainClass": "Pattern.AtoZLatters.H",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "No5",
+            "request": "launch",
+            "mainClass": "Pattern.OtoINumbers.No5",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "S",
+            "request": "launch",
+            "mainClass": "Pattern.AtoZLatters.S",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "E",
+            "request": "launch",
+            "mainClass": "Pattern.AtoZLatters.E",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "L",
+            "request": "launch",
+            "mainClass": "Pattern.AtoZLatters.L",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "A",
             "request": "launch",
             "mainClass": "Pattern.AtoZLatters.A",

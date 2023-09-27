@@ -2,7 +2,7 @@ package Pattern.OtoINumbers;
 
 public class No8 {
     public static void main(String[] args) {
-        int n = 11;
+        int n = 7;
         int star = (n / 2) + 2, space = n / 2, star1 = (n / 2) + 1;
         for (int i = 1; i <= n; i++) {
             if (i == 1 || i == star1 || i == n) {
@@ -17,4 +17,12 @@ public class No8 {
             System.out.println();
         }
     }
+    // Output : 
+// * * * * *
+// *       *
+// *       *
+// * * * * *
+// *       *
+// *       *
+// * * * * *
 }
