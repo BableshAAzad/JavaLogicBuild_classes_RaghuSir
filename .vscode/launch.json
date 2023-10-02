@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AutomorphicNumberOrNot",
+            "request": "launch",
+            "mainClass": "NUMBERbaseProgram.AutomorphicNumber.AutomorphicNumberOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "B",
             "request": "launch",
             "mainClass": "Pattern.AtoZLatters.B",
