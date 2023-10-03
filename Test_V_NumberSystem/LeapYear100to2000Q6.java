@@ -10,7 +10,7 @@ public class LeapYear100to2000Q6 {
     }
 
     static boolean leapOrNot(int n) {
-        if (n % 4 == 0 & n % 100 != 0 || n % 400 == 0)
+        if (n % 4 == 0 && n % 100 != 0 || n % 400 == 0)
             return true;
         return false;
     }

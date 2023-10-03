@@ -1,9 +1,9 @@
-package MIITestINumberSystem.AutomorphicNumber;
+package MIITestINumberSystem.TestINumberSystem;
 
 import java.util.Scanner;
 
 // eg. 5 = 5*5 = 25 last digits are match 5
-// eg. 76 = 76*76 = 5726 last digits are match 76
+// eg. 76 = 76*76 = 5776 last digits are match 76
 // eg. 25 = 25*25 = 625 last digits are match 25
 public class AutomorphicNumberOrNot {
     public static void main(String[] args) {
