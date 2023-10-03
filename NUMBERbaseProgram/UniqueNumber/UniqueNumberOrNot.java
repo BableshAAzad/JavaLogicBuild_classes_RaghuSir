@@ -1,7 +1,8 @@
 package NUMBERbaseProgram.UniqueNumber;
 
 import java.util.Scanner;
-
+// 70, 123, 175, 3259 it is unique number
+// 22, 1100, 1010 it is not a unique number
 public class UniqueNumberOrNot {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -12,7 +13,7 @@ public class UniqueNumberOrNot {
         //     System.out.println(n + " is a Unique number");
         // else
         //     System.out.println(n + " is not a Unique number");
-        sc.close();
+        // sc.close();
     }
 
     // private static boolean isUnique(int n) {

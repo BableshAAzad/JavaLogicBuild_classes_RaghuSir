@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class UniqueNumberOrNotMethod2 {
     public static void main(String[] args) {
-        // TODO code application logic here
         int r1, r2, n, num1, num2, c = 0;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number=");
