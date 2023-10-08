@@ -14,18 +14,14 @@ public class SpiralOrderAntiClockwise {
     static void antiClockwiseSpiral(int[][] x) {
         int n = x.length;
         for (int i = 0, j = n - 1; i < j; i++, j--) {
-            for (int k = i; k < j; k++) {
+            for (int k = i; k < j; k++)
                 System.out.print(x[k][i] + " ");
-            }
-            for (int k = i; k < j; k++) {
+            for (int k = i; k < j; k++)
                 System.out.print(x[j][k] + " ");
-            }
-            for (int k = j; k > i; k--) {
+            for (int k = j; k > i; k--)
                 System.out.print(x[k][j] + " ");
-            }
-            for (int k = j; k > i; k--) {
+            for (int k = j; k > i; k--)
                 System.out.print(x[i][k] + " ");
-            }
         }
         if (n % 2 == 1)
             System.out.print(x[n / 2][n / 2]);

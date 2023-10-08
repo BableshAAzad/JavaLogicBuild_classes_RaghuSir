@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpiralPrintClockwise",
+            "request": "launch",
+            "mainClass": "MIITestINumberSystem.TestTwoDArray.SpiralPrintClockwise",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DublicateCharRemove",
+            "request": "launch",
+            "mainClass": "MIITestINumberSystem.TestString.DublicateCharRemove",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountPercOfChar",
+            "request": "launch",
+            "mainClass": "MIITestINumberSystem.TestString.CountPercOfChar",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "DemoTree111",
             "request": "launch",
             "mainClass": "Pattern.Trangle.DemoTree111",
