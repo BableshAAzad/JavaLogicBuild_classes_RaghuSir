@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConvertWordsToNumber3",
+            "request": "launch",
+            "mainClass": "Stringgg.StringToNumberConvert.ConvertWordsToNumber3",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "WordNNumber3",
+            "request": "launch",
+            "mainClass": "Stringgg.StringToNumberConvert.WordNNumber3",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ConvertWordsToNumber2",
+            "request": "launch",
+            "mainClass": "Stringgg.StringToNumberConvert.ConvertWordsToNumber2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "StringToIntegerConverter",
             "request": "launch",
             "mainClass": "Stringgg.StringToNumberConvert.StringToIntegerConverter",

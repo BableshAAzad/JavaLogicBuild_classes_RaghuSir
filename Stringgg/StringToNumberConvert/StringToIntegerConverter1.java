@@ -3,7 +3,7 @@ package Stringgg.StringToNumberConvert;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class StringToIntegerConverter {
+public class StringToIntegerConverter1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string representation of a number: ");
