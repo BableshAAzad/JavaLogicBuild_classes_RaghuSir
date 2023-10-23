@@ -1,4 +1,4 @@
-package Stringgg;
+package Stringgg.NumberToStringConvert;
 
 import java.util.Scanner;
 
