@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AddTwoNumbers",
+            "request": "launch",
+            "mainClass": "Practice.AddTwoNumbers",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "ConvertWordsToNumber3",
             "request": "launch",
             "mainClass": "Stringgg.StringToNumberConvert.ConvertWordsToNumber3",
