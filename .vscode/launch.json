@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "Practice2.MajorityElement",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "LargeConsecutive",
+            "request": "launch",
+            "mainClass": "Practice2.LargeConsecutive",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "AddTwoNumbers",
             "request": "launch",
             "mainClass": "Practice.AddTwoNumbers",
