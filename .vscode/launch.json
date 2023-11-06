@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SplitDemo",
+            "request": "launch",
+            "mainClass": "Practice.SplitDemo",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "_26ReturnsecondwordinUppercase",
+            "request": "launch",
+            "mainClass": "Practice2.Day5._26ReturnsecondwordinUppercase",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "_22PalindromeOrNot",
+            "request": "launch",
+            "mainClass": "Practice2.Day5._22PalindromeOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "_21IfoddThenAddOddOtherwiseAddEvens",
+            "request": "launch",
+            "mainClass": "Practice2.Day5._21IfoddThenAddOddOtherwiseAddEvens",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "_20OddDigitsSum",
+            "request": "launch",
+            "mainClass": "Practice2.Day5._20OddDigitsSum",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "_3LastDigitOfTheNumber",
+            "request": "launch",
+            "mainClass": "Practice2.Day5._3LastDigitOfTheNumber",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "_2IsOdd",
+            "request": "launch",
+            "mainClass": "Practice2.Day5._2IsOdd",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "_1IsEven",
+            "request": "launch",
+            "mainClass": "Practice2.Day5._1IsEven",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Question8AppearMoreThan25",
+            "request": "launch",
+            "mainClass": "Practice2.Day4.Question8AppearMoreThan25",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Question6SubArray",
+            "request": "launch",
+            "mainClass": "Practice2.Day4.Question6SubArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "Practice2.Day4.Question1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "MajorityElement",
             "request": "launch",
             "mainClass": "Practice2.MajorityElement",

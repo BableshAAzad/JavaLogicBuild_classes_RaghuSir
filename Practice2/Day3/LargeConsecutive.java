@@ -1,4 +1,4 @@
-package Practice2;
+package Practice2.Day3;
 
 import java.util.Arrays;
 
