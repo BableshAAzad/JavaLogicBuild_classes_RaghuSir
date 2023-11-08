@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WealthesPerson",
+            "request": "launch",
+            "mainClass": "Practice.WealthesPerson",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RunningSum",
+            "request": "launch",
+            "mainClass": "Practice.RunningSum",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MATaddBecome15",
+            "request": "launch",
+            "mainClass": "Practice2.day7.MATaddBecome15",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BigPrimeInDiagonal",
+            "request": "launch",
+            "mainClass": "Practice.BigPrimeInDiagonal",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountUnqueNumber",
+            "request": "launch",
+            "mainClass": "Practice.CountUnqueNumber",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AddUnqueElement",
+            "request": "launch",
+            "mainClass": "Practice.AddUnqueElement",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReverseToString",
+            "request": "launch",
+            "mainClass": "Practice.ReverseToString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DemoTime",
+            "request": "launch",
+            "mainClass": "Practice.DemoTime",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SuffulArray",
+            "request": "launch",
+            "mainClass": "Practice.SuffulArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "_28WiegthOfStrings",
             "request": "launch",
             "mainClass": "Practice2.Day5._28WiegthOfStrings",
