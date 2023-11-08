@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveDublicateElement1",
+            "request": "launch",
+            "mainClass": "Practice.RemoveDublicateElement1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDublicateElement",
+            "request": "launch",
+            "mainClass": "Practice.RemoveDublicateElement",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RemoveElement",
+            "request": "launch",
+            "mainClass": "Practice.RemoveElement",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SearchNumInSortedArr1",
+            "request": "launch",
+            "mainClass": "Practice.SearchNumInSortedArr1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SearchNumInSortedArr",
+            "request": "launch",
+            "mainClass": "Practice.SearchNumInSortedArr",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "WealthesPerson",
             "request": "launch",
             "mainClass": "Practice.WealthesPerson",
