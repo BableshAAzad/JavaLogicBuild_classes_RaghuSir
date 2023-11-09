@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseWordsInTheSentance",
+            "request": "launch",
+            "mainClass": "Stringgg.ReverseWordsInTheSentance",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReverseWordInStrin151",
+            "request": "launch",
+            "mainClass": "Practice.ReverseWordInStrin151",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "StringPalindrome125",
+            "request": "launch",
+            "mainClass": "Practice.StringPalindrome125",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "LengthLastWord",
             "request": "launch",
             "mainClass": "Practice.LengthLastWord",
