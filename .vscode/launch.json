@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SingleNumber136",
+            "request": "launch",
+            "mainClass": "Practice.SingleNumber136",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PhoneNumber",
+            "request": "launch",
+            "mainClass": "Practice2.Day8.PhoneNumber",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BestTimeBuyShell121",
+            "request": "launch",
+            "mainClass": "Practice.BestTimeBuyShell121",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "ReverseWordsInTheSentance",
             "request": "launch",
             "mainClass": "Stringgg.ReverseWordsInTheSentance",
