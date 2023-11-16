@@ -23,6 +23,6 @@ public class SingleNumber136 {
         int[] arr = { 2, 2, 1 };
         singleNumber(arr);
         String s = "";
-        String[] ss = s.toCharArray();
+        // String[] ss = s.toCharArray();
     }
 }

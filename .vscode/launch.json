@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseVowelsofaString345",
+            "request": "launch",
+            "mainClass": "Practice.ReverseVowelsofaString345",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "LargestNumber179",
+            "request": "launch",
+            "mainClass": "Practice.LargestNumber179",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonPrefix14",
+            "request": "launch",
+            "mainClass": "Practice.LongestCommonPrefix14",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DetectCapatil520",
+            "request": "launch",
+            "mainClass": "Practice.DetectCapatil520",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceWord2",
+            "request": "launch",
+            "mainClass": "Practice2.Day10.ReplaceWord2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDublicates1",
+            "request": "launch",
+            "mainClass": "Practice2.Day10.RemoveDublicates1",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DetectCapital520",
+            "request": "launch",
+            "mainClass": "Practice2.Day9.DetectCapital520",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "SingleNumber136",
             "request": "launch",
             "mainClass": "Practice.SingleNumber136",
