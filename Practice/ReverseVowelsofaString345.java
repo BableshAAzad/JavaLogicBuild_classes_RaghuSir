@@ -24,7 +24,8 @@ public class ReverseVowelsofaString345 {
     }
 
     public static void main(String[] args) {
-        String s = "leetcode";
+        // String s = "leetcode";
+        String s = "elephentiF";
         String res = reverseVowels(s);
         System.out.println(res);
     }

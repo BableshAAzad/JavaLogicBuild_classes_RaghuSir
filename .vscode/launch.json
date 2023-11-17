@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValidParentheses20",
+            "request": "launch",
+            "mainClass": "Practice.ValidParentheses20",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AddBinary67",
+            "request": "launch",
+            "mainClass": "Practice2.Day11.AddBinary67",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "IndexOfTheFirstOccurence29",
+            "request": "launch",
+            "mainClass": "Practice2.Day11.IndexOfTheFirstOccurence29",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "ReverseVowelsofaString345",
             "request": "launch",
             "mainClass": "Practice.ReverseVowelsofaString345",
