@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WordSearch79",
+            "request": "launch",
+            "mainClass": "Practice.Medium.WordSearch79",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SortColors75",
+            "request": "launch",
+            "mainClass": "Practice.Medium.SortColors75",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrix59",
+            "request": "launch",
+            "mainClass": "Practice.Medium.SpiralMatrix59",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FirstMissingPositive41",
+            "request": "launch",
+            "mainClass": "Practice.HardLevel.FirstMissingPositive41",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "ValidParentheses20",
             "request": "launch",
             "mainClass": "Practice.ValidParentheses20",
