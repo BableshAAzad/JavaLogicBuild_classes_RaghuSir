@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SetMatrixZeroes73",
+            "request": "launch",
+            "mainClass": "Practice2.Day12.SetMatrixZeroes73",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CombinationSum39",
+            "request": "launch",
+            "mainClass": "Practice2.Day12.CombinationSum39",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FactorialTrailingZeroes172",
+            "request": "launch",
+            "mainClass": "Practice2.Day12.FactorialTrailingZeroes172",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumofSquaresofSpecialElements2778",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.SumofSquaresofSpecialElements2778",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CheckifArrayisGood2748",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.CheckifArrayisGood2748",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SplitStringsbySeparator2788",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.SplitStringsbySeparator2788",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "WordSearch79",
             "request": "launch",
             "mainClass": "Practice.Medium.WordSearch79",
