@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MedianofTwoSortedArrays4",
+            "request": "launch",
+            "mainClass": "Practice.HardLevel.MedianofTwoSortedArrays4",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubstringWithoutRepeatingCharacters3",
+            "request": "launch",
+            "mainClass": "Practice.Medium.LongestSubstringWithoutRepeatingCharacters3",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BinaryNumberwithAlternatingBits693",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.BinaryNumberwithAlternatingBits693",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumofAllOddLengthSubarrays1588",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.SumofAllOddLengthSubarrays1588",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "StringtoInteger8",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.StringtoInteger8",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "NumberofDistinctAverages2465",
             "request": "launch",
             "mainClass": "Practice2.Day13.NumberofDistinctAverages2465",
