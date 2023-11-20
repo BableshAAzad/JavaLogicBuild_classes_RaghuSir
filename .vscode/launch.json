@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberofDistinctAverages2465",
+            "request": "launch",
+            "mainClass": "Practice2.Day13.NumberofDistinctAverages2465",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargestDigitinaString1796",
+            "request": "launch",
+            "mainClass": "Practice2.Day13.SecondLargestDigitinaString1796",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "KthLargestElementinanArray215",
             "request": "launch",
             "mainClass": "Practice.Medium.KthLargestElementinanArray215",
