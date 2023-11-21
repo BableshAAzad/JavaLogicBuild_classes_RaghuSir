@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WateringPlantsII2105",
+            "request": "launch",
+            "mainClass": "Practice2.Day14.WateringPlantsII2105",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ContainsDuplicateII219",
+            "request": "launch",
+            "mainClass": "Practice2.Day14.ContainsDuplicateII219",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "IsSubsequence392",
+            "request": "launch",
+            "mainClass": "Practice2.Day14.IsSubsequence392",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "MedianofTwoSortedArrays4",
             "request": "launch",
             "mainClass": "Practice.HardLevel.MedianofTwoSortedArrays4",
