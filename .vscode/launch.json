@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberofSegmentsinaString434",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.NumberofSegmentsinaString434",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ShortestPalindrome214",
+            "request": "launch",
+            "mainClass": "Practice2.Day16.ShortestPalindrome214",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "checkAnnagaram",
+            "request": "launch",
+            "mainClass": "Practice2.Day16.checkAnnagaram",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "GroupAnagrams49",
+            "request": "launch",
+            "mainClass": "Practice2.Day16.GroupAnagrams49",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RansomNote383",
+            "request": "launch",
+            "mainClass": "Practice2.Day15.RansomNote383",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MoveZeroes283",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.MoveZeroes283",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "WateringPlantsII2105",
             "request": "launch",
             "mainClass": "Practice2.Day14.WateringPlantsII2105",
