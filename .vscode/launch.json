@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IntersectionofTwoArrays349",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.IntersectionofTwoArrays349",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "IntegertoRoman12",
             "request": "launch",
             "mainClass": "Practice.Medium.IntegertoRoman12",
