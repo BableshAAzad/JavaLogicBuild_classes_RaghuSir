@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IntegertoRoman12",
+            "request": "launch",
+            "mainClass": "Practice.Medium.IntegertoRoman12",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RomantoInteger13",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.RomantoInteger13",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountSpecialIntegers2376",
+            "request": "launch",
+            "mainClass": "Practice.HardLevel.CountSpecialIntegers2376",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AB",
+            "request": "launch",
+            "mainClass": "PracticeFaltu.AB",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "NumberofSegmentsinaString434",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.NumberofSegmentsinaString434",
