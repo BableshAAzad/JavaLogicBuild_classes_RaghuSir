@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Demo;
 
 public class BestTimeBuyShell121 {
     public static int maxProfit(int[] prices) {

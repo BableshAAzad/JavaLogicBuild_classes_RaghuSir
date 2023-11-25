@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Demo;
 
 public class StringPalindrome125 {
     public static boolean isPalindrome(String s) {

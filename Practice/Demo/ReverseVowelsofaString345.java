@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Demo;
 
 public class ReverseVowelsofaString345 {
     public static String reverseVowels(String s) {

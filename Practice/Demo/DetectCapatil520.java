@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Demo;
 
 public class DetectCapatil520 {
     public static boolean detectCapitalUse(String word) {

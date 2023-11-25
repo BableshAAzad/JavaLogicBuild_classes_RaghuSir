@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Demo;
 
 public class SearchNumInSortedArr1 {
     public static int searchInsert(int[] nums, int target) {

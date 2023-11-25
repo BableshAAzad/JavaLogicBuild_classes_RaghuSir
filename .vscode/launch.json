@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemovingStarsFromaString2390",
+            "request": "launch",
+            "mainClass": "Practice.Medium.RemovingStarsFromaString2390",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RemoveTrailingZerosFromaString2710",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.RemoveTrailingZerosFromaString2710",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FindAllNumbersDisappearedinanArray448",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.FindAllNumbersDisappearedinanArray448",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "EliminationGame390",
+            "request": "launch",
+            "mainClass": "Practice.Medium.EliminationGame390",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FindtheDifference389",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.FindtheDifference389",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FirstUniqueCharacterinaString387",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.FirstUniqueCharacterinaString387",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RansomNote383",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.RansomNote383",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "KthSmallestElementinaSortedMatrix378",
+            "request": "launch",
+            "mainClass": "Practice.Medium.KthSmallestElementinaSortedMatrix378",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SuperPow372",
+            "request": "launch",
+            "mainClass": "Practice.Medium.SuperPow372",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "LargestDivisibleSubset368",
+            "request": "launch",
+            "mainClass": "Practice.Medium.LargestDivisibleSubset368",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ValiPerfectSquare367",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.ValiPerfectSquare367",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "IntersectionofTwoArraysII350",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.IntersectionofTwoArraysII350",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "IntersectionofTwoArrays349",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.IntersectionofTwoArrays349",

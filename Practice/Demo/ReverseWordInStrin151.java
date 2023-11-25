@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Demo;
 
 public class ReverseWordInStrin151 {
     public static String reverseWords(String s) {

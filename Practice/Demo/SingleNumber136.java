@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Demo;
 
 public class SingleNumber136 {
     public static void singleNumber(int[] nums) {

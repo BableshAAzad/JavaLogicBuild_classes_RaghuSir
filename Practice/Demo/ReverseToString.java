@@ -1,4 +1,4 @@
-package Practice;
+package Practice.Demo;
 
 public class ReverseToString {
     public static String restoreString(String s, int[] ar) {
