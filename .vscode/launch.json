@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberComplement476",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.NumberComplement476",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RepeatedSubstringPattern459",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.RepeatedSubstringPattern459",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "StringCompression443",
+            "request": "launch",
+            "mainClass": "Practice.Medium.StringCompression443",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SortVowelsinaString2785",
+            "request": "launch",
+            "mainClass": "Practice.Medium.SortVowelsinaString2785",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DeDay",
+            "request": "launch",
+            "mainClass": "Practice2.Day18.DeDay",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "RemovingStarsFromaString2390",
             "request": "launch",
             "mainClass": "Practice.Medium.RemovingStarsFromaString2390",
