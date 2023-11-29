@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlusOne66",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.PlusOne66",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FindFirstPalindromicStringinthe2108",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.FindFirstPalindromicStringinthe2108",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "LargestPalindromicNumber2384",
+            "request": "launch",
+            "mainClass": "Practice.Medium.LargestPalindromicNumber2384",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "NumberComplement476",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.NumberComplement476",
