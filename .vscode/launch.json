@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestConsecutiveSequence128",
+            "request": "launch",
+            "mainClass": "Practice.Medium.LongestConsecutiveSequence128",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SortCharactersByFrequency415",
+            "request": "launch",
+            "mainClass": "Practice.Medium.SortCharactersByFrequency415",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Demooooo",
+            "request": "launch",
+            "mainClass": "Practice.Demooooo",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "LicenseKeFormatting482",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.LicenseKeFormatting482",
