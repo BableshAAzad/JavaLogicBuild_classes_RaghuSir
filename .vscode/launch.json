@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SingleElementinaSortedArray540",
+            "request": "launch",
+            "mainClass": "Practice.Medium.SingleElementinaSortedArray540",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNumber509",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.FibonacciNumber509",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RelativeRanks506",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.RelativeRanks506",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "BaseSeven504",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.BaseSeven504",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "KeyboardRow500",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.KeyboardRow500",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "MaximumNumberofWordsYouCanType1935",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.MaximumNumberofWordsYouCanType1935",
