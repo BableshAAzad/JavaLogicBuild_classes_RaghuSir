@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberofGoodPairs1521",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.NumberofGoodPairs1521",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "GreatestCommonDivisorofStrings1071",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.GreatestCommonDivisorofStrings1071",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SelfDividingNumbers728",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.SelfDividingNumbers728",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DecodeString394",
+            "request": "launch",
+            "mainClass": "Practice.Medium.DecodeString394",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MaximumAverageSubarrayI643",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.MaximumAverageSubarrayI643",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ShortestUnsortedContinuousSubarray581",
+            "request": "launch",
+            "mainClass": "Practice.Medium.ShortestUnsortedContinuousSubarray581",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "PermutationinString567",
+            "request": "launch",
+            "mainClass": "Practice.Medium.PermutationinString567",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReshapetheMatrix566",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.ReshapetheMatrix566",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "SingleElementinaSortedArray540",
             "request": "launch",
             "mainClass": "Practice.Medium.SingleElementinaSortedArray540",
