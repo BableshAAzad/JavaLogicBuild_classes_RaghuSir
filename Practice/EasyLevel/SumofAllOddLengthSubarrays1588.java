@@ -1,13 +1,17 @@
 package Practice.EasyLevel;
 
+import java.util.ArrayList;
+
 public class SumofAllOddLengthSubarrays1588 {
+    // ^ 1863 number
     public static int sumOddLengthSubarrays(int[] arr) {
         int sum = 0;
-        for (int i = 0; i < arr.length; i++) {
-                sum += arr[i];
-        }
-        if(arr.length >1 && arr.length % 2 != 0){
-            
+        for (int i = 0; i <= arr.length - 1; i++) {
+            int leftBr = i + 1;
+            int rightBr = arr.length - i;
+            int totalSub = leftBr * rightBr;
+            int oddSub = (totalSub % 2 == 0 ? 0 : 1) + totalSub / 2;
+            sum += arr[i] * oddSub;
         }
         return sum;
     }

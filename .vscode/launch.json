@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CounttheDigitsThatDivideaNumber2520",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.CounttheDigitsThatDivideaNumber2520",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumMultiples2652",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.SumMultiples2652",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "NumberofStepstoReduceaNumbertoZero1342",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.NumberofStepstoReduceaNumbertoZero1342",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "XOROperationinanArray1486",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.XOROperationinanArray1486",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MinimumSumofFourDigitNumberAfterSplittingDigits2160",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.MinimumSumofFourDigitNumberAfterSplittingDigits2160",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SubtracttheProductandSumofDigitsofanInteger1281",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.SubtracttheProductandSumofDigitsofanInteger1281",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DivisibleandNondivisibleSumsDifference2894",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.DivisibleandNondivisibleSumsDifference2894",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "NumberofGoodPairs1521",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.NumberofGoodPairs1521",
