@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GreatestEnglishLetterinUpperandLowerCase2309",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.GreatestEnglishLetterinUpperandLowerCase2309",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MinimumCommonValue2540",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.MinimumCommonValue2540",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "NumberofCommonFactors2427",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.NumberofCommonFactors2427",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SortthePeople2418",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.SortthePeople2418",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "CounttheDigitsThatDivideaNumber2520",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.CounttheDigitsThatDivideaNumber2520",
