@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MostCommonWord819",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.MostCommonWord819",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "LuckyNumbersinaMatrix1380",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.LuckyNumbersinaMatrix1380",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "TransposeMatrix867",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.TransposeMatrix867",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CalculateMoneyinLeetcodeBank1716",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.CalculateMoneyinLeetcodeBank1716",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountPairsWhoseSumisLessthanTarget2824",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.CountPairsWhoseSumisLessthanTarget2824",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "GreatestEnglishLetterinUpperandLowerCase2309",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.GreatestEnglishLetterinUpperandLowerCase2309",
