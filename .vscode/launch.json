@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindCommonElementsBetweenTwoArrays2956",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.FindCommonElementsBetweenTwoArrays2956",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ElementAppearingMoreThan25perInSortedArray1287",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.ElementAppearingMoreThan25perInSortedArray1287",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "WordPattern290",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.WordPattern290",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "MostCommonWord819",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.MostCommonWord819",
