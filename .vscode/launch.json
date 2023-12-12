@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindWordsContainingCharacter2942",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.FindWordsContainingCharacter2942",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MinimumSizeSubarraySum209",
+            "request": "launch",
+            "mainClass": "Practice.Medium.MinimumSizeSubarraySum209",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "MaximumProductofTwoElementsinanArray1464",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.MaximumProductofTwoElementsinanArray1464",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "TrangleDown",
+            "request": "launch",
+            "mainClass": "Pattern.Trangle.TrangleDown",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Piramid8",
+            "request": "launch",
+            "mainClass": "Pattern.Piramid.Piramid8",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Piramid7",
+            "request": "launch",
+            "mainClass": "Pattern.Piramid.Piramid7",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DamaruSidha2",
+            "request": "launch",
+            "mainClass": "Pattern.Damaru.DamaruSidha2",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DamaruUlta",
+            "request": "launch",
+            "mainClass": "Pattern.Damaru.DamaruUlta",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "FindCommonElementsBetweenTwoArrays2956",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.FindCommonElementsBetweenTwoArrays2956",
