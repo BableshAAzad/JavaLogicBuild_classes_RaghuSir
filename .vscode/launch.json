@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindChampionII2924",
+            "request": "launch",
+            "mainClass": "Practice.Medium.FindChampionII2924",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "FindChampionI2923",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.FindChampionI2923",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "SubarraysDistinctElementSumofSquaresI2913",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.SubarraysDistinctElementSumofSquaresI2913",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "FindWordsContainingCharacter2942",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.FindWordsContainingCharacter2942",
