@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpecialPositionsinaBinaryMatrix1582",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.SpecialPositionsinaBinaryMatrix1582",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "FindChampionII2924",
             "request": "launch",
             "mainClass": "Practice.Medium.FindChampionII2924",
