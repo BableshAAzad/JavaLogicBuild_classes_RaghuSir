@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RedistributeCharacterstoMakeAllStringsEqual1897",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.RedistributeCharacterstoMakeAllStringsEqual1897",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "LengthoftheLongestAlphabeticalContinuousSubstring2414",
+            "request": "launch",
+            "mainClass": "Practice.Medium.LengthoftheLongestAlphabeticalContinuousSubstring2414",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "DifferenceBetweenOnesandZerosinRowandColumn2428",
+            "request": "launch",
+            "mainClass": "Practice.Medium.DifferenceBetweenOnesandZerosinRowandColumn2428",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "SpecialPositionsinaBinaryMatrix1582",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.SpecialPositionsinaBinaryMatrix1582",
