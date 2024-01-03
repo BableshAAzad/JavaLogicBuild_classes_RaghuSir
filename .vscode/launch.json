@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromePartitioning131",
+            "request": "launch",
+            "mainClass": "Practice.Medium.PalindromePartitioning131",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "RedistributeCharacterstoMakeAllStringsEqual1897",
             "request": "launch",
             "mainClass": "Practice.EasyLevel.RedistributeCharacterstoMakeAllStringsEqual1897",
