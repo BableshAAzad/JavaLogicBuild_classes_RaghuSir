@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AllThreeDigitPalindrome",
+            "request": "launch",
+            "mainClass": "Practice2.Day1.AllThreeDigitPalindrome",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "AddFirstAndLastDigit",
+            "request": "launch",
+            "mainClass": "Practice2.Day1.AddFirstAndLastDigit",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "ArrayPair",
             "request": "launch",
             "mainClass": "Practice2.Day1.ArrayPair",
