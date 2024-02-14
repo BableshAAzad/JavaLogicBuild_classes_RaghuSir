@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WordBreak139",
+            "request": "launch",
+            "mainClass": "Practice.Medium.WordBreak139",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "RearrangeArrayElementsbySign2149",
+            "request": "launch",
+            "mainClass": "Practice.Medium.RearrangeArrayElementsbySign2149",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "AllThreeDigitPalindrome",
             "request": "launch",
             "mainClass": "Practice2.Day1.AllThreeDigitPalindrome",
