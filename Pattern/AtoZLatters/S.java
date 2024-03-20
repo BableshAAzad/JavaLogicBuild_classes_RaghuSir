@@ -27,4 +27,33 @@ public class S {
     //             *
     //             *
     //  * * * * * *
+
+//  -----------Or---------------------
+
+    // int n = 5, temp = n / 2;
+    //     for (int i = 1; i <= n; i++) {
+    //         for (int j = 1; j <= n; j++) {
+    //             if (i == 1 || i == n || i == temp + 1) {
+    //                 System.out.print("*" + " ");
+    //             }
+    //         }
+    //         if (i < temp + 1 && i != 1)
+    //             System.out.print("*");
+    //         if (i > temp + 1 && temp < n && i != n) {
+    //             for (int j = 1; j <= n - 1; j++) {
+    //                 System.out.print("  ");
+    //             }
+    //             System.out.print("*");
+    //         }
+    //         System.out.println();
+    //     }
+
+     // outpu :
+    // * * * * * * 
+    // *
+    // *
+    // * * * * * *
+    //           *
+    //           *
+    // * * * * * *
 }
