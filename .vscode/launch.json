@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Date",
+            "request": "launch",
+            "mainClass": "Stringgg.Date.Date",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "QFileHandling",
+            "request": "launch",
+            "mainClass": "Practice3.day1.QFileHandling",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "QRemoveDublicateWordsUsingRecursion",
+            "request": "launch",
+            "mainClass": "Practice3.day1.QRemoveDublicateWordsUsingRecursion",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Q6ReplaceCharWithBlank",
+            "request": "launch",
+            "mainClass": "Practice3.day1.Q6ReplaceCharWithBlank",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Q5ContNumberOfWords",
+            "request": "launch",
+            "mainClass": "Practice3.day1.Q5ContNumberOfWords",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Q4InsertStudentUsingHashmap",
+            "request": "launch",
+            "mainClass": "Practice3.day1.Q4InsertStudentUsingHashmap",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Q3MergeTwoList",
+            "request": "launch",
+            "mainClass": "Practice3.day1.Q3MergeTwoList",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Q2PalindromeOrNot",
+            "request": "launch",
+            "mainClass": "Practice3.day1.Q2PalindromeOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "QFrequencyOfEachWord",
+            "request": "launch",
+            "mainClass": "Practice3.day1.QFrequencyOfEachWord",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "QFrequencyOfEachCharHashMap",
+            "request": "launch",
+            "mainClass": "Practice3.day1.QFrequencyOfEachCharHashMap",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "Q1CountWordsAndCheckPalindrome",
+            "request": "launch",
+            "mainClass": "Practice3.day1.Q1CountWordsAndCheckPalindrome",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "IntegertoEnglishWords273",
             "request": "launch",
             "mainClass": "Practice.HardLevel.IntegertoEnglishWords273",
