@@ -18,7 +18,7 @@ public class QFileHandling {
                 }
                 if((char)c != ' '){
                   s += (char)c;
-                  map.put()
+                //   map.put()
                 }else{
                     s = "";
                 }
