@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LargestPositiveIntegerThatExistsWithItsNegative2441",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.LargestPositiveIntegerThatExistsWithItsNegative2441",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
+            "name": "ReversePrefixofWord2000",
+            "request": "launch",
+            "mainClass": "Practice.EasyLevel.ReversePrefixofWord2000",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_c2ad8bb3"
+        },
+        {
+            "type": "java",
             "name": "MainChair",
             "request": "launch",
             "mainClass": "PracticeFaltu.MainChair",
