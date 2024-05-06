@@ -15,5 +15,6 @@ class AverageOfDigitsInTheNth {
             n = n / 10;
         } while (n != 0);
         System.out.println("Here all digits average is :" + sum / count);
+        sc.close();
     }
 }
