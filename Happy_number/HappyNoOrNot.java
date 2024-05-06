@@ -16,6 +16,7 @@ class HappyNoOrNot {
     static boolean isHappy(int n) {
         while (n > 9) {
             int sum = 0;
+            System.out.println(sum);
             do {
                 int d = n % 10;
                 sum = sum + d * d;

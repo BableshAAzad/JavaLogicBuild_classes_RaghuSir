@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HappyNoOrNot",
+            "request": "launch",
+            "mainClass": "Happy_number.HappyNoOrNot",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_9fad18ea"
+        },
+        {
+            "type": "java",
             "name": "CompareVersionNumbers165",
             "request": "launch",
             "mainClass": "Practice.Medium.CompareVersionNumbers165",
