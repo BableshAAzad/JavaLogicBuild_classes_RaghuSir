@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DublicateNumbersInArray",
+            "request": "launch",
+            "mainClass": "Arrayyy.practice.DublicateNumbersInArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_d8050b44"
+        },
+        {
+            "type": "java",
             "name": "SmallestNumberArray",
             "request": "launch",
             "mainClass": "Arrayyy.practice.SmallestNumberArray",
