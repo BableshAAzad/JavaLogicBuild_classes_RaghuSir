@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "Stringgg.practice.ReverseString",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_d8050b44"
+        },
+        {
+            "type": "java",
             "name": "HappyNoOrNot",
             "request": "launch",
             "mainClass": "Happy_number.HappyNoOrNot",
