@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NthBiggestNumberWithSoring",
+            "request": "launch",
+            "mainClass": "Arrayyy.NthBiggestNumberWithSoring",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_d8050b44"
+        },
+        {
+            "type": "java",
             "name": "NthBiggestInArray",
             "request": "launch",
             "mainClass": "Arrayyy.NthBiggestInArray",
