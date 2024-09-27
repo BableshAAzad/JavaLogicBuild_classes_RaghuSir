@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TwoOfPowerN",
+            "request": "launch",
+            "mainClass": "Integerrr.practice.TwoOfPowerN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_d8050b44"
+        },
+        {
+            "type": "java",
+            "name": "SquareRootQ5",
+            "request": "launch",
+            "mainClass": "Test_V_NumberSystem.SquareRootQ5",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_d8050b44"
+        },
+        {
+            "type": "java",
             "name": "A2B3A2C3usingMap",
             "request": "launch",
             "mainClass": "Stringgg.A2B3A2C3usingMap",
