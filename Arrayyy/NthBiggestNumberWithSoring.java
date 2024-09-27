@@ -17,8 +17,9 @@ public class NthBiggestNumberWithSoring {
                     arr[i] = arr[j];
                     arr[j] = temp;
                 }
+                System.out.println(Arrays.toString(arr));
             }
-            System.out.println(Arrays.toString(arr));
+            System.out.println("-----------------------------");
         }
         return arr[arr.length - in];
     }
