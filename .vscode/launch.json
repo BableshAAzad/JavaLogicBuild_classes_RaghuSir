@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SmallestNumberArray",
+            "request": "launch",
+            "mainClass": "Arrayyy.practice.SmallestNumberArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_d8050b44"
+        },
+        {
+            "type": "java",
             "name": "TwoOfPowerN",
             "request": "launch",
             "mainClass": "Integerrr.practice.TwoOfPowerN",
