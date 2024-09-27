@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NthBiggestInArray",
+            "request": "launch",
+            "mainClass": "Arrayyy.NthBiggestInArray",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_d8050b44"
+        },
+        {
+            "type": "java",
+            "name": "NthLargestWithoutShorting",
+            "request": "launch",
+            "mainClass": "Arrayyy.NthLargestWithoutShorting",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_d8050b44"
+        },
+        {
+            "type": "java",
             "name": "ReverseString",
             "request": "launch",
             "mainClass": "Stringgg.practice.ReverseString",
