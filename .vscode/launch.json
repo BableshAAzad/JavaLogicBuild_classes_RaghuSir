@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FibonacciNth",
+            "request": "launch",
+            "mainClass": "Integerrr.practice.FibonacciNth",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_d8050b44"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeriesWithinN",
+            "request": "launch",
+            "mainClass": "Integerrr.practice.FibonacciSeriesWithinN",
+            "projectName": "RaghuSir_JavaLogicBuild_classes_d8050b44"
+        },
+        {
+            "type": "java",
             "name": "DublicateNumbersInArray",
             "request": "launch",
             "mainClass": "Arrayyy.practice.DublicateNumbersInArray",
