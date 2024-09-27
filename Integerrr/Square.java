@@ -11,5 +11,6 @@ class Square {
         System.out.println("Square side is : " + side);
         System.out.println("Area of Square is : " + area);
         System.out.println("Perimeter of Square is : " + perm);
+        scan.close();
     }
 }
