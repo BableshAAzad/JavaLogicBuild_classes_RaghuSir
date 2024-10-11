@@ -1,6 +1,8 @@
 package stream_api.group_employee;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 public class GroupByDesignation {
@@ -22,5 +24,11 @@ public class GroupByDesignation {
             System.out.println("Designation: " + designation);
             empList.forEach(System.out::println);
         });
+
+        // Map<String, List<EmployeeGroup>> temp = employees.stream()
+        // .collect(Collectors.groupingBy(EmployeeGroup::getDesignation));
+        // temp.forEach((des, group) -> {
+        // System.out.println(des + "==>" + group.size());
+        // });
     }
 }
